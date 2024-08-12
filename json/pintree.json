@@ -1484,5 +1484,1207 @@
         ]
       }
     ]
+  },
+
+
+  {
+    
+    "type": "folder",
+    "addDate": 1720618291643,
+    "title": "AI 知识库导航",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1721274745698,
+        "title": "AI 飞书知识库",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "🌈 通往 AGI 之路 - 飛書雲端文件",
+            "icon": "https://logo.clearbit.com/waytoagi.feishu.cn",
+            "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AI 产品数据榜 AIwatch.ai - 飞书云文档",
+            "icon": "https://logo.clearbit.com/zw73xyquvv.feishu.cn",
+            "url": "https://zw73xyquvv.feishu.cn/wiki/UH5QwtUWtis1gTk4R6rcnWK2nZc"
+          },
+          {
+            "type": "link",
+            "addDate": 1721274898512,
+            "title": "玩转 ChatGPT - Feishu Docs",
+            "icon": "https://logo.clearbit.com/k5ms77k0o1.feishu.cn",
+            "url": "https://k5ms77k0o1.feishu.cn/wiki/wikcnJyI9wsyjyBc8xiDgv0cY8b"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Sora 学习手册（持续更新 ing... - 飞书云文档",
+            "icon": "https://logo.clearbit.com/yunyinghui.feishu.cn",
+            "url": "https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "‌⁤‍‍​⁣​​‌⁢‍⁡﻿​‬⁡‍⁣⁢⁡⁣⁤⁡​⁢​​﻿⁤﻿﻿⁢⁡‍‌⁢​​​﻿​⁢⁢​⁡‍⁣⁢﻿AI 产品榜 aicpb.com - 飞书云文档",
+            "icon": "https://logo.clearbit.com/dnipkggqxh.feishu.cn",
+            "url": "https://dnipkggqxh.feishu.cn/wiki/YTIUwM6Vmij4IQkSm9PctPWunIb"
+          },
+          {
+            "type": "link",
+            "addDate": 1721274911935,
+            "title": "AIGC 学习手册 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/nujuo8y1qx.feishu.cn",
+            "url": "https://nujuo8y1qx.feishu.cn/docx/RleadAwrAo4O1FxhuoGcDV86nBe"
+          },
+          {
+            "type": "link",
+            "addDate": 1721274917111,
+            "title": "AIGC 交流群工具沉淀 by 乔向阳 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/bytedance.larkoffice.com",
+            "url": "https://bytedance.larkoffice.com/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf?table=tblmZTd8VuUOOONh&view=vew0Eo17BB"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "The Document is All You Need！一站式 LLM 底层技术原理入门指南 - 飛書雲端文件",
+            "icon": "https://logo.clearbit.com/s3tlxskbq3.feishu.cn",
+            "url": "https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc"
+          },
+          {
+            "type": "link",
+            "addDate": 1721274925346,
+            "title": "🥇「AI 知识库」首页 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/ssw9noe1h6.feishu.cn",
+            "url": "https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d"
+          },
+          {
+            "type": "link",
+            "addDate": 1721274928899,
+            "title": "⭐LangGPT 结构化提示词 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/langgptai.feishu.cn",
+            "url": "https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe"
+          },
+          {
+            "type": "link",
+            "addDate": 1721274932005,
+            "title": "Datawhale 人工智能培养方案 V2.0 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/datawhale.feishu.cn",
+            "url": "https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "GenAI/GPT/AIGC/LLM/NLP/ChatGPT 学习 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/gofurther.feishu.cn",
+            "url": "https://gofurther.feishu.cn/docx/Enofdl25BotoVrxth8ec4rNBn5c"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AI 工具收录 | 小红书博主「工具就是效率」整理 - 飛書雲端文件",
+            "icon": "https://logo.clearbit.com/dzu6t0u40s.feishu.cn",
+            "url": "https://dzu6t0u40s.feishu.cn/base/bascnL0IG0qINbTXFznvSjmkKsf?table=tbluBl957wcj0js3&view=vewg3hq3ig"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AI 研习社 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/aiyanxishe.feishu.cn",
+            "url": "https://aiyanxishe.feishu.cn/wiki/wikcnu3kSXr75E50w8PFefhJMYf"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Sam Altman 的创业手册 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/jxp73q7qjsg.feishu.cn",
+            "url": "https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "🤖 AI 智库（首页）",
+            "icon": "https://logo.clearbit.com/ki6j1b0d92h.feishu.cn",
+            "url": "https://ki6j1b0d92h.feishu.cn/wiki/wikcnAFcEccJ5iXiU8MRntc2Vyb"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275759636,
+            "title": "ChatGPT 学习课程包 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/yunyinghui.feishu.cn",
+            "url": "https://yunyinghui.feishu.cn/wiki/M60IwpJhwiRD1lkeFGVc70CSnTr"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275761632,
+            "title": "AI 产品经理行业资料库（持续更新） - Feishu Docs",
+            "icon": "https://logo.clearbit.com/gxvezr0dpem.feishu.cn",
+            "url": "https://gxvezr0dpem.feishu.cn/docx/BE1YdDKeOoNZcvxeidccwJ65nnc"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "玩赚 AI 实验室 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/yunyinghui.feishu.cn",
+            "url": "https://yunyinghui.feishu.cn/wiki/WhelwZnxQi55mpkOzatc3Xran5b"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275768118,
+            "title": "极客时间 AIGC 知识库 · 学习指南 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/longalong.feishu.cn",
+            "url": "https://longalong.feishu.cn/wiki/wikcngNXeTD1ZnOly0X19lPLfoh"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275770000,
+            "title": "openai 官方《提示词工程课》超详细中文笔记 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/ec26ubh65w.feishu.cn",
+            "url": "https://ec26ubh65w.feishu.cn/docx/PuULdQP3wojyZYxn157cnsDXnqe"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275772793,
+            "title": "🔥 紧跟 AIGC 风向知识库【首页 - 持续更新中】 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/szqxz4m7fs.feishu.cn",
+            "url": "https://szqxz4m7fs.feishu.cn/wiki/wikcnMJ5qdVdOJ03XsBZFuXIRkf"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275775634,
+            "title": "# AI 严选 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/aiweaver.feishu.cn",
+            "url": "https://aiweaver.feishu.cn/wiki/VsPWwY5VJi3BOTkMimPcWQaRnJe"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275777903,
+            "title": "Sora 体系内容 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/langgptai.feishu.cn",
+            "url": "https://langgptai.feishu.cn/wiki/I9Nhw0qLSiSfYEkXRmHcczFAn2c"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275779675,
+            "title": "🐴 Martin's Wiki - Feishu Docs",
+            "icon": "https://logo.clearbit.com/whjlnspmd6.feishu.cn",
+            "url": "https://whjlnspmd6.feishu.cn/wiki/VJ6JwGdz1iGF0Fk5g1TcjkVonFe"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275786042,
+            "title": "AI +X | Datawhale 学习指南 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/datawhaler.feishu.cn",
+            "url": "https://datawhaler.feishu.cn/wiki/X9AVwtmvyi87bIkYpi2cNGlIn3v"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275789075,
+            "title": "AIGC 工具使用体验分享和推荐 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/bytedance.larkoffice.com",
+            "url": "https://bytedance.larkoffice.com/docx/D9Wvd6nABo1LYqxPsuwcQRponfb"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275791951,
+            "title": "Claude 学习手册（持续更新 ing... - Feishu Docs",
+            "icon": "https://logo.clearbit.com/yunyinghui.feishu.cn",
+            "url": "https://yunyinghui.feishu.cn/wiki/DMiGwm3wmixK1lkZe44clpXynbf"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275824734,
+            "title": "GPT 提示词大全（中英文双语）持续更新 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/fauvi7x7h0.feishu.cn",
+            "url": "https://fauvi7x7h0.feishu.cn/docx/DviKdbKreorNZ5xddGjcUMjlnwh"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275826915,
+            "title": "AIGC 学习手册 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/yunyinghui.feishu.cn",
+            "url": "https://yunyinghui.feishu.cn/wiki/XMHhwqwAqiW9R2kOIGPcYWEZnj8"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275829023,
+            "title": "奔赴 AGI - Feishu Docs",
+            "icon": "https://logo.clearbit.com/aigcreative.feishu.cn",
+            "url": "https://aigcreative.feishu.cn/wiki/DQGiwCAwji9ZoAkwZ7Tcvqhvngf"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275831007,
+            "title": "会读阅览室-AI 资讯自习笔记 - 用户认知到应用场景 - 每周更新 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/gptdaily.feishu.cn",
+            "url": "https://gptdaily.feishu.cn/wiki/wikcnfPOUcdLAArFscaVnAyS6vf"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275833128,
+            "title": "ChatGPT & AI | 普通人必备手册 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/l5fobi2tsi.feishu.cn",
+            "url": "https://l5fobi2tsi.feishu.cn/docx/JoRUdTQ9DoGIHlxPljLc5RRjnnf"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275836010,
+            "title": "🤖不是地表最强 Ai 学习指北【公开版】 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/kh18s6uvdi.feishu.cn",
+            "url": "https://kh18s6uvdi.feishu.cn/wiki/DkBKwemvliClfMkxX6GctVCZnhe"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275838346,
+            "title": "Midjourney 5 关键词&画册 by 向阳 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/bytedance.larkoffice.com",
+            "url": "https://bytedance.larkoffice.com/docx/TNVVdS7eYorWLlx4SmOcfmQAn7e"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275840763,
+            "title": "AI 知识库集合 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/zj8n9mefwa.feishu.cn",
+            "url": "https://zj8n9mefwa.feishu.cn/base/CS8tbAfXhavG1JsouvQc8wy2niY?table=tblFWIpte5xmOwu3&view=vewhn9pMi1"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275842535,
+            "title": "AI｜Agent - Feishu Docs",
+            "icon": "https://logo.clearbit.com/ber4x592s7.feishu.cn",
+            "url": "https://ber4x592s7.feishu.cn/wiki/KjX9w0c3HipMPjkw6x6c7vLRnQc"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275845044,
+            "title": "✊AI 创业者成长共创共建社区 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/openviewtech.feishu.cn",
+            "url": "https://openviewtech.feishu.cn/wiki/wikcn5DGRktEOMJgz2Eo2Tecwze"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275848463,
+            "title": "老陆 AI 知识库目录 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/evnr5jw9no.feishu.cn",
+            "url": "https://evnr5jw9no.feishu.cn/wiki/GEWowFtKkiFd3LkqsKUci9HAn8c"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275865862,
+            "title": "AI 鹊桥 · 智库 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/g7c5xfa0cz.feishu.cn",
+            "url": "https://g7c5xfa0cz.feishu.cn/wiki/CEFJwoogJiIRG7kUISbc6JctnJg"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275867974,
+            "title": "精华笔记：微软 Build 2023 开发者大会专题演讲：State of GPT（GPT 的现状） - Feishu Docs",
+            "icon": "https://logo.clearbit.com/bytedance.sg.larkoffice.com",
+            "url": "https://bytedance.sg.larkoffice.com/docx/KFXFdEikzoWNJDxFXIycmWOgnpd"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275870381,
+            "title": "Sora 官方视频汇总 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/ooglx41xh8.feishu.cn",
+            "url": "https://ooglx41xh8.feishu.cn/wiki/Saj3wfzqfiwqCsk3Mh6cHOKGnOy?table=tblK5hmgah9T2jov&view=vewbPpW6ja"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275874067,
+            "title": "AIGC 学习文档 / 知识库汇总 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/ooglx41xh8.feishu.cn",
+            "url": "https://ooglx41xh8.feishu.cn/wiki/DfcbwWMqPi1bK1kO4jlcSJCKnmg?table=tblbhG3Zsxnj7fa0&view=vewnkpXTK2"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275877267,
+            "title": "☄️AI Flow Genius 工作流社区 知识库 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/jalicvoygc0.feishu.cn",
+            "url": "https://jalicvoygc0.feishu.cn/wiki/DdEvwxYsSidd36kAIIVcnROwnmb"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275879111,
+            "title": "精选 PDF 资料区 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/szqxz4m7fs.feishu.cn",
+            "url": "https://szqxz4m7fs.feishu.cn/wiki/QpqewmZSjiaNFqkDujSc0Pfjntb"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275880506,
+            "title": "SORA 模型 AI 视频前瞻 | 持续更新... - Feishu Docs",
+            "icon": "https://logo.clearbit.com/m04qpey4mpc.feishu.cn",
+            "url": "https://m04qpey4mpc.feishu.cn/docx/V1ewd6eFooUtgixSv7scvw8ln9f"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275882344,
+            "title": "让我们每个人都变成千军万马 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/kwg093bnyd5.feishu.cn",
+            "url": "https://kwg093bnyd5.feishu.cn/wiki/ARt6wJ2xRi8CbIk2QqgcZUyVnMh"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275884046,
+            "title": "《AIGC 使用手册大全》 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/tahv2nbhh1a.feishu.cn",
+            "url": "https://tahv2nbhh1a.feishu.cn/docx/O1UHdC5Qjo8dCrxOH6ScXuy0nge"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "‍⁢‬‌⁤​⁤⁤​‬﻿⁤​﻿​⁢⁤​‌​‌⁣‌⁣⁢⁢⁡‌‍​‍⁣⁢​⁢‬⁤​⁣‌⁡‍‬‌⁢‬⁢‬我的 AIGC 残缺地图：好文推荐（不完全统计） - 飞书云文档",
+            "icon": "https://logo.clearbit.com/f7rdq2pzot.feishu.cn",
+            "url": "https://f7rdq2pzot.feishu.cn/docx/FkE4dk067o02pqxg3QOcyTs6nee"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275903329,
+            "title": "AGI 论文营地 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/geektechstudio.feishu.cn",
+            "url": "https://geektechstudio.feishu.cn/wiki/GKEFwnEQoiZutuktP3Sc0VXXnGh"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275905141,
+            "title": "即友 GPTs 列表 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/ooglx41xh8.feishu.cn",
+            "url": "https://ooglx41xh8.feishu.cn/wiki/TEanwcYTFildJekUzi5c3B9KnTb?table=tblYXD1sinmUBVqX&view=vewiUsYM1b"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275907379,
+            "title": "ChatGPT Prompt Engineering for Developers - Feishu Docs",
+            "icon": "https://logo.clearbit.com/unickcheng.feishu.cn",
+            "url": "https://unickcheng.feishu.cn/docx/WTScd8zYsoxvfuxddcZcskEbn6o"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275908907,
+            "title": "【1】Tripo AI 攻略手册 · Prompt 攻略心得 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/aigc-learning.feishu.cn",
+            "url": "https://aigc-learning.feishu.cn/wiki/X4wDwFPCAinwIukHD5kchkkEnNh"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275910121,
+            "title": "AI 知识体系公开库 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/y208d2my66.feishu.cn",
+            "url": "https://y208d2my66.feishu.cn/wiki/LVfvwmaYdiIEVnkBQricghSVnPb"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275911981,
+            "title": "《AI 入门知识卡片》免费更新中 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/wom8yg9f1f.feishu.cn",
+            "url": "https://wom8yg9f1f.feishu.cn/wiki/ClPLw6nWriumgckmaZIce1uJnbc"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275913510,
+            "title": "【苏世创协】AI 日报汇总 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/zm0zutea2y.feishu.cn",
+            "url": "https://zm0zutea2y.feishu.cn/docx/P8mpdRDp9o0MdTxhiLycGwJnnzd"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275915459,
+            "title": "AI·所向—AI 前沿知识库 - Feishu Docs",
+            "icon": "https://logo.clearbit.com/qp6cun00qk.feishu.cn",
+            "url": "https://qp6cun00qk.feishu.cn/wiki/PCapwZu5Ei6X16kzzVEceONQnpc"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275939454,
+            "title": "ChatGPT 知识库与案例集【更新至 04.26】（） - Feishu Docs",
+            "icon": "https://logo.clearbit.com/l2tszbl819.feishu.cn",
+            "url": "https://l2tszbl819.feishu.cn/docx/SBCKdyN3Co5ayGxkkPfc8nm8nYg"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1720618291643,
+        "title": "AI 新手教程",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AIGC 时代个人生存/摸鱼探索指南 - 个人使用篇.Dev",
+            "icon": "https://logo.clearbit.com/gamma.app",
+            "url": "https://gamma.app/docs/AIGC-Dev-9y7n4vslcp2bol2?mode=doc"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AI 产品沉思录「专享版」",
+            "icon": "https://logo.clearbit.com/curly-lantern-177.notion.site",
+            "url": "https://curly-lantern-177.notion.site/AI-bc8de6a7220442caa5efb7741ca921cc"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Guides.ai - 人工智能 (AI) 教程",
+            "icon": "https://logo.clearbit.com/guides.ai",
+            "url": "https://guides.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AIGC 资源库（持续更新） - 飞书云文档",
+            "icon": "https://logo.clearbit.com/hf0y97ff1r.feishu.cn",
+            "url": "https://hf0y97ff1r.feishu.cn/wiki/B5DbwK93sixnWNkx79ScillknXf"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "📖 AI 破局 | 小航海手册 + 教练分享合集 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/d16rg8unadx.feishu.cn",
+            "url": "https://d16rg8unadx.feishu.cn/wiki/Gw24wVfLMiHESokvyRVcuhNGnPf"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "晓雅聊 AI--知识库 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/uqtg4okxsd.feishu.cn",
+            "url": "https://uqtg4okxsd.feishu.cn/wiki/Rm7zwtR4Ci9kDxkLfr2csha9n9f"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AI 类知识文档全网合集 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/uqtg4okxsd.feishu.cn",
+            "url": "https://uqtg4okxsd.feishu.cn/wiki/MoB0w5Zd2ie2IckGg7WccMRRnrg"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "YuanxAL_全球 AI 法规手册",
+            "icon": "https://logo.clearbit.com/yuanx-ai.feishu.cn",
+            "url": "https://yuanx-ai.feishu.cn/wiki/Sb4twD8Utiqvdkk5hzscb6ODnNf"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "人工智能专业答疑问题库（适用于专科、本科、研究生) - 飞书云文档",
+            "icon": "https://logo.clearbit.com/cq3vh0u6poj.feishu.cn",
+            "url": "https://cq3vh0u6poj.feishu.cn/wiki/OXfHwK3KyiR6FekMkXAcqA7AnCe"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "飞书云文档",
+            "icon": "https://logo.clearbit.com/cvyjzhfm73.feishu.cn",
+            "url": "https://cvyjzhfm73.feishu.cn/docx/Y5YhdJ6dRoX4rlxfHOYcKpjmnHh"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "ChatGPT 精选 - ChatGPT 使用教程 最新资讯",
+            "icon": "https://logo.clearbit.com/chatgpt-jx.com",
+            "url": "https://chatgpt-jx.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "太空小孩 AIGC 知识库 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/ooglx41xh8.feishu.cn",
+            "url": "https://ooglx41xh8.feishu.cn/wiki/Wsukw99E1ihSldkqEjwc5E2Mnrb?chunked=false"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "‌⁢​​​⁢​‬⁢﻿⁤​⁣⁤‌‍​‬‬⁤⁢⁤​⁢⁡‌‌⁢⁢⁤‌‌‍​⁣‬‬‍⁣​​⁣‬⁤⁤⁣​﻿⁣​AI 指南针｜ChatGPT 中文知识库 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/rxmtr720qw.feishu.cn",
+            "url": "https://rxmtr720qw.feishu.cn/docx/WpyOd2wciod8zYxnc2ecULCjnbd"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "‍​﻿﻿‌‌﻿‬‍​‬​⁡⁤​‌‌​​⁢‍⁡⁡‬⁡⁤‍‍⁢⁤⁡‬‌⁡⁡​‌﻿⁤⁤⁢⁤​⁡⁤⁡⁡⁢‍‬涓海录 AIGC 学习文档（全网合集~持续更新） - 飞书云文档",
+            "icon": "https://logo.clearbit.com/qwu28uf3j5.feishu.cn",
+            "url": "https://qwu28uf3j5.feishu.cn/docx/Ofp1dBDp2oH1nGxTmk9cRZDvnQe"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "ChatGPT 知识库丨公开 分享 进步 一站式 GPT 知识库 · 语雀",
+            "icon": "https://logo.clearbit.com/www.yuque.com",
+            "url": "https://www.yuque.com/gptcn/gpt"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "🌿AI PM「人工智能产品管理」🖥️ - 飞书云文档",
+            "icon": "https://logo.clearbit.com/roadmaps.feishu.cn",
+            "url": "https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AIGC 时代个人生存/摸鱼探索指南 - 个人使用篇.Dev | Gamma",
+            "icon": "https://logo.clearbit.com/gamma.app",
+            "url": "https://gamma.app/docs/AIGC-Dev-9y7n4vslcp2bol2?mode=doc#card-vcx9m0t2vtbrnsn"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "yzfly/awesome-chatgpt-zh: ChatGPT 中文指南，命令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up！",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/yzfly/awesome-chatgpt-zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AIC 资源库（持续更新） - 飞书云文档",
+            "icon": "https://logo.clearbit.com/hf0y97ff1r.feishu.cn",
+            "url": "https://hf0y97ff1r.feishu.cn/wiki/B5DbwK93sixnWNkx79ScillknXf?chunked=false"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "飛書雲端文件",
+            "icon": "https://logo.clearbit.com/mi2zo429cdh.feishu.cn",
+            "url": "https://mi2zo429cdh.feishu.cn/docx/IGd1d8UQuo9DAkxfHqAcnx5OnFd"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Darknet Knowledge Base - 飛書雲端文件",
+            "icon": "https://logo.clearbit.com/wk5u55sc2e.feishu.cn",
+            "url": "https://wk5u55sc2e.feishu.cn/docx/U9jpdC8Tho3pJgxbKWMcVh3TnL0"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "两个月 $12000 ARR 实践之路 – 硬地骇客",
+            "icon": "https://logo.clearbit.com/book.hardhacker.com",
+            "url": "https://book.hardhacker.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "‌⁢⁡⁣⁡‌⁡⁢﻿⁡⁤‌​⁤﻿⁡⁢⁢‌‌﻿﻿⁢‍⁤﻿​⁣‌‍⁡‍⁢⁣‌‬⁡⁢‌⁢​‍﻿⁤⁡⁢‍⁢⁢⁤ChatGPT 入门使用手册 -8 月最新版 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/o0ldtlqz05.feishu.cn",
+            "url": "https://o0ldtlqz05.feishu.cn/docx/GQBndbH7toGVkGxfAThct7RTnmb?302from=wiki"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "‬⁢‌⁡‌‍﻿​‬﻿﻿⁤​‍‍‌‬⁣‍⁣​﻿‍⁡﻿⁡﻿﻿​⁡‍⁣‬⁤​⁤‍‌​‌⁣‍‍‌‬⁡​‍ChatGPT 使用系列 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/hf0y97ff1r.feishu.cn",
+            "url": "https://hf0y97ff1r.feishu.cn/wiki/wikcny12P81C1iUyPJe0s1IsqJg"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "ChatGPT 学习精华内容汇总 - 飛書雲端文件",
+            "icon": "https://logo.clearbit.com/nujuo8y1qx.feishu.cn",
+            "url": "https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "‌⁢​​‌﻿⁢‬​⁡​⁣‌﻿​⁤⁡⁢﻿﻿﻿​⁤⁢​‍​⁢﻿⁢⁤⁡‌⁤​‬​⁡⁤‌⁤⁣‌​‍⁣﻿‬⁢‍AI 知识库集合 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/zj8n9mefwa.feishu.cn",
+            "url": "https://zj8n9mefwa.feishu.cn/base/CS8tbAfXhavG1JsouvQc8wy2niY?table=tblFWIpte5xmOwu3&view=vewhn9pMi1&chunked=false"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AI 研习社 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/zl49so8lbq.feishu.cn",
+            "url": "https://zl49so8lbq.feishu.cn/wiki/wikcnu3kSXr75E50w8PFefhJMYf?chunked=false"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "中文 GPTS，字节中文扣子 Coze 使用全教程 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/682022371"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "🎉 Welcome to Coze | Coze",
+            "icon": "https://logo.clearbit.com/www.coze.com",
+            "url": "https://www.coze.com/docs/zh_cn/welcome.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "字节聊天机器人 Coze 的使用（包括创建自己的聊天机器人免费使用 GPT-4，GPT-4 turbo）_coze 不能上传 pdf-CSDN 博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/manfanying/article/details/136052100"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "【附保姆教程】字节版 GPT Coze（扣子）已上线！你的 AI bot，你做主！ - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/681180013"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "白嫖 GPT4 和 Dalle3？字节的 COZE 来了！附快速上手教程。 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/672525437"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1720618291645,
+        "title": "AI 进阶教程",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "GenAI Handbook",
+            "icon": "https://logo.clearbit.com/genai-handbook.github.io",
+            "url": "https://genai-handbook.github.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "DataTalksClub/llm-zoomcamp: LLM Zoomcamp - a free online course about building a Q&A system",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/DataTalksClub/llm-zoomcamp"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "前言 | 动手学大模型 Dive into LLMs",
+            "icon": "https://logo.clearbit.com/sjtullm.gitbook.io",
+            "url": "https://sjtullm.gitbook.io/dive-into-llms"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "多模态学习智库",
+            "icon": "https://logo.clearbit.com/kh18s6uvdi.feishu.cn",
+            "url": "https://kh18s6uvdi.feishu.cn/wiki/XastwsnMoih0dxkXFPocfk9QnUc"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "GitHub - Lordog/dive-into-llms: 《动手学大模型 Dive into LLMs》系列编程实践教程",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Lordog/dive-into-llms"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "大模型理论基础",
+            "icon": "https://logo.clearbit.com/datawhalechina.github.io",
+            "url": "https://datawhalechina.github.io/so-large-lm/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Spreadsheets are all you need.ai – A low-code way to learn AI",
+            "icon": "https://logo.clearbit.com/spreadsheets-are-all-you-need.ai",
+            "url": "https://spreadsheets-are-all-you-need.ai/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "datawhalechina/so-large-lm: 大模型基础：一文了解大模型基础知识",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/datawhalechina/so-large-lm"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "PandaBearLab/prompt-tutorial: chatGPT, prompt, LLM",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/PandaBearLab/prompt-tutorial"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "LLM Visualization",
+            "icon": "https://logo.clearbit.com/bbycroft.net",
+            "url": "https://bbycroft.net/llm"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Google Cloud Skills Boost",
+            "icon": "https://logo.clearbit.com/www.cloudskillsboost.google",
+            "url": "https://www.cloudskillsboost.google/paths/17"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "The Machine & Deep Learning Compendium | Machine & Deep Learning Compendium",
+            "icon": "https://logo.clearbit.com/oricohen.gitbook.io",
+            "url": "https://oricohen.gitbook.io/machine-and-deep-learning-compendium"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "引出/机器学习列表",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/elicit/machine-learning-list"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "动手学大模型应用开发",
+            "icon": "https://logo.clearbit.com/datawhalechina.github.io",
+            "url": "https://datawhalechina.github.io/llm-universe/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "‌⁢‬﻿‬‌⁢​⁣⁢‍⁣​‍‬⁣﻿​‌⁤‌‍⁢‌​​⁢‬‍​⁤⁡﻿‌⁢‌⁢⁤﻿⁤‌‍⁤​​​‬⁡‌‌《AI 破局 · RPA 实战项目》学习手册 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/ev0ft8k60w2.feishu.cn",
+            "url": "https://ev0ft8k60w2.feishu.cn/docx/TC0gdHGekoqwCJxIJZncgGi7nZd"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "dair-ai/ML-YouTube-Courses: 📺 Discover the latest machine learning / AI courses on YouTube.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/dair-ai/ML-YouTube-Courses"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "GitHub - liguodongiot/llm-action: 本项目旨在分享大模型相关技术原理以及实战经验。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/liguodongiot/llm-action"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "krishnaik06/2024 年生成式 AI 学习路线图",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Generative AI for Beginners",
+            "icon": "https://logo.clearbit.com/microsoft.github.io",
+            "url": "https://microsoft.github.io/generative-ai-for-beginners/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AI_Tutorial: 精选机器学习，NLP，图像识别，深度学习等人工智能领域学习资料，搜索，推荐，广告系统及架构算法技术资料整理。算法大牛笔记汇总",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/cbamls/AI_Tutorial"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "GitHub - mli/paper-reading: 深度学习经典、新论文逐段精读",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/mli/paper-reading"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Hello! · Transformers 快速入门",
+            "icon": "https://logo.clearbit.com/transformers.run",
+            "url": "https://transformers.run/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "QiushiSun/NCISurvey：2024 年神经代码情报调查；阅读清单和资源",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/QiushiSun/NCISurvey"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "飛書雲端文件",
+            "icon": "https://logo.clearbit.com/futureforce.feishu.cn",
+            "url": "https://futureforce.feishu.cn/file/CMpdbLxAhon5K5x5C1OcciYwnOf"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "数据科学初学者",
+            "icon": "https://logo.clearbit.com/microsoft.github.io",
+            "url": "https://microsoft.github.io/Data-Science-For-Beginners/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Releases · d2l-ai/d2l-zh --- 发布 · d2l-ai/d2l-zh",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/d2l-ai/d2l-zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "stas00/ml-engineering: Machine Learning Engineering Open Book",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/stas00/ml-engineering"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "State of Open Source AI Book - 2023 Edition — State of Open Source AI Book",
+            "icon": "https://logo.clearbit.com/book.premai.io",
+            "url": "https://book.premai.io/state-of-open-source-ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "datawhalechina/llm-universe: 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/datawhalechina/llm-universe"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "GitHub - premAI-io/state-of-open-source-ai: Clarity in the current fast-paced mess of Open Source innovation",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/premAI-io/state-of-open-source-ai"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "开源 AI 指南 (Cookbook) - Hugging Face Open-Source AI Cookbook",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/learn/cookbook/zh-CN/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "《动手学深度学习》 — 动手学深度学习 2.0.0 documentation",
+            "icon": "https://logo.clearbit.com/zh.d2l.ai",
+            "url": "https://zh.d2l.ai/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "《义务学深度学习》 — 义务学深度学习 2.0.0 文档",
+            "icon": "https://logo.clearbit.com/zh.d2l.ai",
+            "url": "https://zh.d2l.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "ChatGPT 复现之路",
+            "icon": "https://logo.clearbit.com/wqw547243068.github.io",
+            "url": "https://wqw547243068.github.io/chatgpt_mimic"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Browse all learning paths and modules - Training | Microsoft Learn",
+            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+            "url": "https://learn.microsoft.com/en-us/training/browse/?resource_type=learning%20path"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "openai/openai-assistants-quickstart: OpenAI Assistants API quickstart with Next.js.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/openai/openai-assistants-quickstart"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "PlexPt/awesome-chatgpt-prompts-zh: ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AI 相关教程",
+            "icon": "https://logo.clearbit.com/www.notion.so",
+            "url": "https://www.notion.so/AI-6cc8d46f6f58441f907cb38bbe39dfc0"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "进入人工智能：专家撰写的唯一相关指南 (2023)",
+            "icon": "https://logo.clearbit.com/guides.ai",
+            "url": "https://guides.ai/how-to-get-into-ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Stephen Wolfram：官方网站",
+            "icon": "https://logo.clearbit.com/www.stephenwolfram.com",
+            "url": "https://www.stephenwolfram.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "学习路线 | Google Cloud Skills Boost",
+            "icon": "https://logo.clearbit.com/www.cloudskillsboost.google",
+            "url": "https://www.cloudskillsboost.google/paths"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "‌​⁣‌​﻿⁤⁣⁢⁣⁡​​​⁣⁤​⁢⁤‍⁤‬⁡⁢⁢﻿⁢⁡⁤﻿‬⁡﻿‬‍⁤⁡⁢⁡⁤‌⁡⁡⁤⁡‍⁢​‌‍ChatGPT+ 麦肯锡方法论，快速了解一个行业 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/ki6j1b0d92h.feishu.cn",
+            "url": "https://ki6j1b0d92h.feishu.cn/wiki/E4I1wSQY6i2GxAkMANuc0E8anRd?chunked=false"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "ChatGPT 学习宝典",
+            "icon": "https://logo.clearbit.com/gpt.candobear.com",
+            "url": "https://gpt.candobear.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "microsoft/AI-For-Beginners：12 周，24 节课，面向所有人的 AI！ --- 微软/初学者 AI：12 周，24 节课，全民 AI！",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/microsoft/AI-For-Beginners"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "microsoft/ML-For-Beginners：12 周，26 节课，52 个测验，适合所有人的经典机器学习",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/microsoft/ML-For-Beginners"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Awesome-AIGC-Tutorials/README_zh.md at main · luban-agi/Awesome-AIGC-Tutorials · GitHub --- Awesome-AIGC-Tutorials/README_zh.md at main · luban-agi/Awesome-AIGC-Tutorials · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "xiaochengcike/Ai-learn: 人工智能学习路线图，整理近 200 个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/xiaochengcike/Ai-learn"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "安缦的人工智能期刊• 入门• 人工智能",
+            "icon": "https://logo.clearbit.com/aman.ai",
+            "url": "https://aman.ai/primers/ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Generative AI learning path | Google Cloud Skills Boost",
+            "icon": "https://logo.clearbit.com/www.cloudskillsboost.google",
+            "url": "https://www.cloudskillsboost.google/paths/118"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "ClickUp",
+            "icon": "https://logo.clearbit.com/doc.clickup.com",
+            "url": "https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Beginner’s guide to OpenAI API",
+            "icon": "https://logo.clearbit.com/blog.streamlit.io",
+            "url": "https://blog.streamlit.io/beginners-guide-to-openai-api/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Start Here with Machine Learning",
+            "icon": "https://logo.clearbit.com/machinelearningmastery.com",
+            "url": "https://machinelearningmastery.com/start-here/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "DeepLearning.AI: Start or Advance Your Career in AI",
+            "icon": "https://logo.clearbit.com/www.deeplearning.ai",
+            "url": "https://www.deeplearning.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "开发者专属的人工智能在线学习平台 - 提供 SQL/Python 数据分析等基础入门教程",
+            "icon": "https://logo.clearbit.com/www.aidaxue.com",
+            "url": "https://www.aidaxue.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "microsoft/Data-Science-For-Beginners: 10 Weeks, 20 Lessons, Data Science for All! --- microsoft/Data-Science-For-Beginners：10 周，20 节课，适合所有人的数据科学！",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Best of Machine Learning &amp; Artificial Intelligence (AI) | Coursera",
+            "icon": "https://logo.clearbit.com/www.coursera.org",
+            "url": "https://www.coursera.org/collections/best-machine-learning-ai"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "构建外脑 / 智变时代的个人知识管理",
+            "icon": "https://logo.clearbit.com/www.indigox.me",
+            "url": "https://www.indigox.me/build-exobrain/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "GitHub - mlabonne/llm-course: Course with a roadmap and notebooks to get into Large Language Models (LLMs).",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/mlabonne/llm-course"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "fast.ai - fast.ai—Making neural nets uncool again",
+            "icon": "https://logo.clearbit.com/www.fast.ai",
+            "url": "https://www.fast.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "人工智能学习路线（学 + 测） - 阿里云开发者社区",
+            "icon": "https://logo.clearbit.com/developer.aliyun.com",
+            "url": "https://developer.aliyun.com/learning/roadmap/ai"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "A free online introduction to artificial intelligence for non-experts",
+            "icon": "https://logo.clearbit.com/www.elementsofai.com",
+            "url": "https://www.elementsofai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Meta 上的 Llama 2 - AI 入门",
+            "icon": "https://logo.clearbit.com/ai.meta.com",
+            "url": "https://ai.meta.com/llama/get-started/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Modular Docs - Why Mojo🔥",
+            "icon": "https://logo.clearbit.com/docs.modular.com",
+            "url": "https://docs.modular.com/mojo/why-mojo.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "开源 AI 食谱 - Hugging Face 开源 AI 食谱",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/learn/cookbook/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "Huggingface/cookbook：开源 AI 食谱",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/huggingface/cookbook"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721276093009,
+        "title": "其他数据库",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "AIGC Weekly",
+            "icon": "https://logo.clearbit.com/quail.ink",
+            "url": "https://quail.ink/op7418"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "已发主题",
+            "icon": "https://logo.clearbit.com/three-recorder-52a.notion.site",
+            "url": "https://three-recorder-52a.notion.site/1c01142d07dc4e3da4ebe7c3c420d4c7"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275956407,
+            "title": "bleedline/aimoneyhunter: ai 副业赚钱大集合，教你如何利用 ai 做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/bleedline/aimoneyhunter?tab=readme-ov-file#ai%E5%89%AF%E4%B8%9A%E8%B5%9A%E9%92%B1%E8%B5%84%E8%AE%AF%E5%90%88%E9%9B%86"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275959496,
+            "title": "收藏 - 哈霖的 AIGC Wiki | Home",
+            "icon": "https://logo.clearbit.com/xuelin.notion.site",
+            "url": "https://xuelin.notion.site/996583d7f0f34d57a1d5a3046c73b181?v=5a23250681a7472dbda403aadd1a459f"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "大厂 AI 实践",
+            "icon": "https://logo.clearbit.com/www.yuque.com",
+            "url": "https://www.yuque.com/wikidesign/vngzgk"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275994037,
+            "title": "ChatGPT 教程、ChatGPT 资源库 & AI 工具箱",
+            "icon": "https://logo.clearbit.com/flowus.cn",
+            "url": "https://flowus.cn/hub101/share/10037b40-88c3-43b3-85f6-b6602dced060"
+          },
+          {
+            "type": "link",
+            "addDate": 1721275997764,
+            "title": "GPTPluginList(1000 个，更新到 0105)",
+            "icon": "https://logo.clearbit.com/longtianye.notion.site",
+            "url": "https://longtianye.notion.site/e67f0d4d39d74b9a9f2c94b9bb089994?v=7f43311807314052b72fb20873c694df"
+          },
+          {
+            "type": "link",
+            "addDate": 1721276002416,
+            "title": "⚓️ AI 领导力 - 船长日志--ShowDoc",
+            "icon": "https://logo.clearbit.com/docs.agi360.xyz",
+            "url": "https://docs.agi360.xyz/web/#/12/11246"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "dalinvip/Awesome-ChatGPT: ChatGPT 资料汇总学习，持续更新......",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/dalinvip/Awesome-ChatGPT"
+          },
+          {
+            "type": "link",
+            "addDate": 1721276009007,
+            "title": "AI 时代个人生存/摸鱼探索指南 - 个人使用篇.Dev",
+            "icon": "https://logo.clearbit.com/gamma.app",
+            "url": "https://gamma.app/docs/AI-Dev-9y7n4vslcp2bol2?mode=doc"
+          },
+          {
+            "type": "link",
+            "addDate": 1719754677000,
+            "title": "aishwaryanr/awesome-generative-ai-guide: A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+          }
+        ]
+      }
+    ]
   }
+
+
 ]
