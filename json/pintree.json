@@ -634,13 +634,6 @@
           },
           {
             "type": "link",
-            "addDate": 1723446956889,
-            "title": "Bookmarks",
-            "icon": "https://logo.clearbit.com/bookmarks",
-            "url": "chrome://bookmarks/?id=1905"
-          },
-          {
-            "type": "link",
             "addDate": 1709912296705,
             "title": "v0 by Vercel",
             "icon": "https://logo.clearbit.com/v0.dev",
