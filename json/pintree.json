@@ -260,6 +260,41 @@
             "title": "MLflow - 机器学习生命周期管理工具",
             "icon": "https://logo.clearbit.com/mlflow.org",
             "url": "https://mlflow.org/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724046918161,
+            "title": "FastAPI - 一个现代、快速（高性能）的 Web 框架，基于 Starlette 和 Pydantic，支持异步编程",
+            "icon": "https://logo.clearbit.com/fastapi.tiangolo.com",
+            "url": "https://fastapi.tiangolo.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724046938046,
+            "title": "Django - 一个全功能型的 Web 框架，提供了许多内置功能",
+            "icon": "https://logo.clearbit.com/www.djangoproject.com",
+            "url": "https://www.djangoproject.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724046955173,
+            "title": "Pyramid - 一个灵活的、可扩展的 Web 框架，适用于从小型到大型项目的开发",
+            "icon": "https://logo.clearbit.com/trypyramid.com",
+            "url": "https://trypyramid.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724046990381,
+            "title": "Tornado - 一个可扩展的 Web 框架和异步网络库，特别适合处理长连接和高并发",
+            "icon": "https://logo.clearbit.com/www.tornadoweb.org",
+            "url": "https://www.tornadoweb.org/en/stable/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724051602991,
+            "title": "PyMuPDF 1.24.9 documentation",
+            "icon": "https://logo.clearbit.com/pymupdf.readthedocs.io",
+            "url": "https://pymupdf.readthedocs.io/en/latest/"
           }
         ]
       },
@@ -320,7 +355,7 @@
                 "addDate": 1723444495448,
                 "title": "Making AI helpful for everyone - Google AI – Google AI",
                 "icon": "https://logo.clearbit.com/ai.google",
-                "url": "https://ai.google/?ref=feizhuke.com"
+                "url": "https://ai.google/"
               },
               {
                 "type": "link",
@@ -346,13 +381,6 @@
               {
                 "type": "link",
                 "addDate": 1723444495458,
-                "title": "《动手学深度学习》 — 动手学深度学习 2.0.0 documentation",
-                "icon": "https://logo.clearbit.com/zh.d2l.ai",
-                "url": "https://zh.d2l.ai/?ref=feizhuke.com"
-              },
-              {
-                "type": "link",
-                "addDate": 1723444495458,
                 "title": "DeepLearning.AI: Start or Advance Your Career in AI",
                 "icon": "https://logo.clearbit.com/www.deeplearning.ai",
                 "url": "https://www.deeplearning.ai/?ref=feizhuke.com"
@@ -363,20 +391,6 @@
                 "title": "Machine Learning for Beginners",
                 "icon": "https://logo.clearbit.com/microsoft.github.io",
                 "url": "https://microsoft.github.io/ML-For-Beginners/#/?ref=feizhuke.com"
-              },
-              {
-                "type": "link",
-                "addDate": 1699235537900,
-                "title": "Machine Learning for Beginners",
-                "icon": "https://logo.clearbit.com/microsoft.github.io",
-                "url": "https://microsoft.github.io/generative-ai-for-beginners/#/01-introduction-to-genai/README?wt.mc_id=academic-105485-koreyst"
-              },
-              {
-                "type": "link",
-                "addDate": 1723447036800,
-                "title": "fast.ai – fast.ai—Making neural nets uncool again",
-                "icon": "https://logo.clearbit.com/www.fast.ai",
-                "url": "https://www.fast.ai/"
               }
             ]
           },
@@ -387,6 +401,13 @@
             "children": [
               {
                 "type": "link",
+                "addDate": 1723444680834,
+                "title": "Kaggle Competitions",
+                "icon": "https://logo.clearbit.com/www.kaggle.com",
+                "url": "https://www.kaggle.com/competitions"
+              },
+              {
+                "type": "link",
                 "addDate": 1723444680830,
                 "title": "天池大数据竞赛_天池大赛 - 阿里云天池",
                 "icon": "https://logo.clearbit.com/tianchi.aliyun.com",
@@ -395,23 +416,16 @@
               {
                 "type": "link",
                 "addDate": 1723444680831,
-                "title": "数据竞赛 - Heywhale 和鲸（官网）- 数据科学协同创新平台",
+                "title": "Heywhale 和鲸 - 数据科学协同创新平台",
                 "icon": "https://logo.clearbit.com/www.heywhale.com",
                 "url": "https://www.heywhale.com/about/competition"
               },
               {
                 "type": "link",
                 "addDate": 1723444680833,
-                "title": "AI 算法大赛 - 飞桨 AI Studio 星河社区 - 人工智能学习与实训社区",
+                "title": "AI 算法大赛 - 飞桨 AI Studio 人工智能学习与实训社区",
                 "icon": "https://logo.clearbit.com/aistudio.baidu.com",
                 "url": "https://aistudio.baidu.com/competition"
-              },
-              {
-                "type": "link",
-                "addDate": 1723445994155,
-                "title": "DataCastle-数据科学创新与实践平台",
-                "icon": "https://logo.clearbit.com/www.datacastle.cn",
-                "url": "https://www.datacastle.cn/index.html"
               },
               {
                 "type": "link",
@@ -422,17 +436,17 @@
               },
               {
                 "type": "link",
-                "addDate": 1723444680834,
-                "title": "Kaggle Competitions",
-                "icon": "https://logo.clearbit.com/www.kaggle.com",
-                "url": "https://www.kaggle.com/competitions"
-              },
-              {
-                "type": "link",
                 "addDate": 1723444732401,
                 "title": "MindSpore 官网",
                 "icon": "https://logo.clearbit.com/www.mindspore.cn",
                 "url": "https://www.mindspore.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724074524524,
+                "title": "DataCastle-数据科学创新与实践平台",
+                "icon": "https://logo.clearbit.com/www.datacastle.cn",
+                "url": "https://www.datacastle.cn/index.html"
               }
             ]
           }
@@ -449,6 +463,34 @@
             "title": "动手实战人工智能 AI By Doing — 动手实战人工智能 AI By Doing",
             "icon": "https://logo.clearbit.com/aibydoing.com",
             "url": "https://aibydoing.com/intro"
+          },
+          {
+            "type": "link",
+            "addDate": 1723444495458,
+            "title": "《动手学深度学习》 — 动手学深度学习 2.0.0 documentation",
+            "icon": "https://logo.clearbit.com/zh.d2l.ai",
+            "url": "https://zh.d2l.ai/?ref=feizhuke.com"
+          },
+          {
+            "type": "link",
+            "addDate": 1699235537900,
+            "title": "Generative-ai for Beginners",
+            "icon": "https://logo.clearbit.com/microsoft.github.io",
+            "url": "https://microsoft.github.io/generative-ai-for-beginners/#/01-introduction-to-genai/README?wt.mc_id=academic-105485-koreyst"
+          },
+          {
+            "type": "link",
+            "addDate": 1724034004798,
+            "title": "《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎）",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/datawhalechina/leedl-tutorial"
+          },
+          {
+            "type": "link",
+            "addDate": 1723447036800,
+            "title": "fast.ai – fast.ai—Making neural nets uncool again",
+            "icon": "https://logo.clearbit.com/www.fast.ai",
+            "url": "https://www.fast.ai/"
           }
         ]
       },
@@ -457,6 +499,13 @@
         "addDate": 1723170707903,
         "title": "大模型",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1724074623508,
+            "title": "Poe-一站式、大模型全家桶",
+            "icon": "https://logo.clearbit.com/poe.com",
+            "url": "https://poe.com/"
+          },
           {
             "type": "link",
             "addDate": 1723180232332,
@@ -484,6 +533,13 @@
             "title": "Mistral AI | Frontier AI in your hands",
             "icon": "https://logo.clearbit.com/mistral.ai",
             "url": "https://mistral.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446897109,
+            "title": "Notion AI | Now with Q&A",
+            "icon": "https://logo.clearbit.com/www.notion.so",
+            "url": "https://www.notion.so/product/ai"
           },
           {
             "type": "link",
@@ -522,24 +578,10 @@
           },
           {
             "type": "link",
-            "addDate": 1723181128834,
-            "title": "百小应 - 懂搜索的 AI 助手",
-            "icon": "https://logo.clearbit.com/ying.baichuan-ai.com",
-            "url": "https://ying.baichuan-ai.com/chat?from=home"
-          },
-          {
-            "type": "link",
             "addDate": 1723181333106,
             "title": "DeepSeek",
             "icon": "https://logo.clearbit.com/chat.deepseek.com",
             "url": "https://chat.deepseek.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1723184138578,
-            "title": "Chatbox AI 官网：办公学习的 AI 好助手，全平台 AI 客户端，官方免费下载",
-            "icon": "https://logo.clearbit.com/chatboxai.app",
-            "url": "https://chatboxai.app/zh"
           },
           {
             "type": "link",
@@ -557,10 +599,17 @@
           },
           {
             "type": "link",
-            "addDate": 1723446897109,
-            "title": "Notion AI | Now with Q&A",
-            "icon": "https://logo.clearbit.com/www.notion.so",
-            "url": "https://www.notion.so/product/ai"
+            "addDate": 1723181128834,
+            "title": "百小应 - 懂搜索的 AI 助手",
+            "icon": "https://logo.clearbit.com/ying.baichuan-ai.com",
+            "url": "https://ying.baichuan-ai.com/chat?from=home"
+          },
+          {
+            "type": "link",
+            "addDate": 1724074591482,
+            "title": "LobeChat：个人 LLM 效能工具，给自己一个更聪明的大脑",
+            "icon": "https://logo.clearbit.com/chatgpt.zhanglearning.com",
+            "url": "https://chatgpt.zhanglearning.com/chat"
           }
         ]
       },
@@ -569,6 +618,13 @@
         "addDate": 1723181350811,
         "title": "AI 编程",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1723186191788,
+            "title": "Cursor",
+            "icon": "https://logo.clearbit.com/www.cursor.com",
+            "url": "https://www.cursor.com/"
+          },
           {
             "type": "link",
             "addDate": 1723181375134,
@@ -589,13 +645,6 @@
             "title": "Llama Coder – AI Code Generator",
             "icon": "https://logo.clearbit.com/llamacoder.together.ai",
             "url": "https://llamacoder.together.ai/"
-          },
-          {
-            "type": "link",
-            "addDate": 1723186191788,
-            "title": "Cursor",
-            "icon": "https://logo.clearbit.com/www.cursor.com",
-            "url": "https://www.cursor.com/"
           },
           {
             "type": "link",
@@ -659,6 +708,13 @@
             "title": "Midjourney",
             "icon": "https://logo.clearbit.com/www.midjourney.com",
             "url": "https://www.midjourney.com/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1724076192442,
+            "title": "Black Forest Labs - Frontier AI Lab",
+            "icon": "https://logo.clearbit.com/blackforestlabs.ai",
+            "url": "https://blackforestlabs.ai/#get-flux"
           },
           {
             "type": "link",
@@ -753,17 +809,17 @@
           },
           {
             "type": "link",
-            "addDate": 1723447023424,
-            "title": "AI 大学堂",
-            "icon": "https://logo.clearbit.com/www.aidaxue.com",
-            "url": "https://www.aidaxue.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1723774968785,
             "title": "Free Text-to-Logo and Text-to-Favicon Generator",
             "icon": "https://logo.clearbit.com/www.logo.surf",
             "url": "https://www.logo.surf/#generate-favicon"
+          },
+          {
+            "type": "link",
+            "addDate": 1724054991451,
+            "title": "Freepik AI image generator - Free text-to-image generator",
+            "icon": "https://logo.clearbit.com/www.freepik.com",
+            "url": "https://www.freepik.com/pikaso/ai-image-generator"
           }
         ]
       },
@@ -1006,13 +1062,6 @@
           {
             "type": "link",
             "addDate": 1723446780076,
-            "title": "探索 HarmonyOS NEXT 系统和鸿蒙原生应用 - 华为开发者联盟",
-            "icon": "https://logo.clearbit.com/developer.huawei.com",
-            "url": "https://developer.huawei.com/consumer/cn/discover/"
-          },
-          {
-            "type": "link",
-            "addDate": 1723446780076,
             "title": "北京智源人工智能研究院",
             "icon": "https://logo.clearbit.com/www.baai.ac.cn",
             "url": "https://www.baai.ac.cn/"
@@ -1026,7 +1075,6 @@
           }
         ]
       },
-
       {
         "type": "folder",
         "addDate": 1723430317918,
