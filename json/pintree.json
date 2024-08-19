@@ -6,21 +6,262 @@
     "children": [
       {
         "type": "folder",
-        "addDate": 1723170591789,
-        "title": "R",
-        "children": []
-      },
-      {
-        "type": "folder",
         "addDate": 1723170577496,
         "title": "Python",
-        "children": []
-      },
-      {
-        "type": "folder",
-        "addDate": 1723170899475,
-        "title": "数学",
-        "children": []
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724030159583,
+            "title": "NumPy - 用于科学计算的基础库",
+            "icon": "https://logo.clearbit.com/numpy.org",
+            "url": "https://numpy.org/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030180795,
+            "title": "Pandas - 用于数据操作和分析",
+            "icon": "https://logo.clearbit.com/pandas.pydata.org",
+            "url": "https://pandas.pydata.org/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030189498,
+            "title": "Matplotlib - 用于绘制图表和数据可视化",
+            "icon": "https://logo.clearbit.com/matplotlib.org",
+            "url": "https://matplotlib.org/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030235867,
+            "title": "Seaborn - 基于 Matplotlib，提供更高级的接口用于统计图形绘制",
+            "icon": "https://logo.clearbit.com/seaborn.pydata.org",
+            "url": "https://seaborn.pydata.org/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030246827,
+            "title": "Scikit-learn - 用于机器学习的库",
+            "icon": "https://logo.clearbit.com/scikit-learn.org",
+            "url": "https://scikit-learn.org/stable/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030257862,
+            "title": "XGBoost - 用于梯度提升决策树的优化库",
+            "icon": "https://logo.clearbit.com/xgboost.readthedocs.io",
+            "url": "https://xgboost.readthedocs.io/en/latest/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030266877,
+            "title": "LightGBM - 用于梯度提升决策树的高效库",
+            "icon": "https://logo.clearbit.com/lightgbm.readthedocs.io",
+            "url": "https://lightgbm.readthedocs.io/en/latest/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030274225,
+            "title": "CatBoost - 用于梯度提升决策树的库，特别适合处理分类特征",
+            "icon": "https://logo.clearbit.com/catboost.ai",
+            "url": "https://catboost.ai/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030284765,
+            "title": "TensorFlow-端到端机器学习、深度学习平台",
+            "icon": "https://logo.clearbit.com/www.tensorflow.org",
+            "url": "https://www.tensorflow.org/?spm=5176.28103460.0.0.3846572cEsNjvE&hl=zh-cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030310427,
+            "title": "PyTorch - 用于深度学习的开源库",
+            "icon": "https://logo.clearbit.com/pytorch.org",
+            "url": "https://pytorch.org/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030318436,
+            "title": "Keras - 高级神经网络 API，能够运行在 TensorFlow 之上",
+            "icon": "https://logo.clearbit.com/keras.io",
+            "url": "https://keras.io/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030340964,
+            "title": "Bokeh documentation — Bokeh 3.5.1 Documentation",
+            "icon": "https://logo.clearbit.com/docs.bokeh.org",
+            "url": "https://docs.bokeh.org/en/latest/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030359399,
+            "title": "Bokeh - 用于创建交互式图表和数据应用程序",
+            "icon": "https://logo.clearbit.com/docs.bokeh.org",
+            "url": "https://docs.bokeh.org/en/latest/docs/gallery.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030391179,
+            "title": "Pillow (PIL Fork) - 图像处理库",
+            "icon": "https://logo.clearbit.com/pillow.readthedocs.io",
+            "url": "https://pillow.readthedocs.io/en/stable/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030455138,
+            "title": "SciPy - 用于科学计算和技术计算",
+            "icon": "https://logo.clearbit.com/scipy.org",
+            "url": "https://scipy.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030468157,
+            "title": "Statsmodels - 用于统计模型估计、统计测试和统计数据探索",
+            "icon": "https://logo.clearbit.com/www.statsmodels.org",
+            "url": "https://www.statsmodels.org/stable/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030521951,
+            "title": "Plotly - 交互式图表库",
+            "icon": "https://logo.clearbit.com/plotly.com",
+            "url": "https://plotly.com/python/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030547237,
+            "title": "Hugging Face - 提供多种预训练模型和库，用于自然语言处理",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/docs/transformers/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030605866,
+            "title": "Beautiful Soup - 用于网页爬取的库",
+            "icon": "https://logo.clearbit.com/www.crummy.com",
+            "url": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030615505,
+            "title": "Scrapy - 快速高级的网页爬取和网页抓取框架",
+            "icon": "https://logo.clearbit.com/scrapy.org",
+            "url": "https://scrapy.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030622764,
+            "title": "Requests - 用于发送 HTTP 请求的库",
+            "icon": "https://logo.clearbit.com/requests.readthedocs.io",
+            "url": "https://requests.readthedocs.io/en/latest/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030636525,
+            "title": "OpenCV (Open Source Computer Vision Library) - 计算机视觉和机器学习库",
+            "icon": "https://logo.clearbit.com/opencv.org",
+            "url": "https://opencv.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030647864,
+            "title": "Dask - 并行计算库，用于高性能计算",
+            "icon": "https://logo.clearbit.com/www.dask.org",
+            "url": "https://www.dask.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723430260081,
+            "title": "FAISS - 用于高效相似性搜索和密集向量聚类的库",
+            "icon": "https://logo.clearbit.com/faiss.ai",
+            "url": "https://faiss.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030683975,
+            "title": "Optuna - 超参数优化框架",
+            "icon": "https://logo.clearbit.com/optuna.org",
+            "url": "https://optuna.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030688866,
+            "title": "MLflow - 机器学习生命周期管理工具",
+            "icon": "https://logo.clearbit.com/www.mlflow.org",
+            "url": "https://www.mlflow.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030693559,
+            "title": "Caffe - 深度学习框架，由贾扬清等人开发",
+            "icon": "https://logo.clearbit.com/caffe.berkeleyvision.org",
+            "url": "http://caffe.berkeleyvision.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030715193,
+            "title": "PyMC3 - 用于贝叶斯统计建模和概率编程",
+            "icon": "https://logo.clearbit.com/www.pymc.io",
+            "url": "https://www.pymc.io/projects/docs/en/stable/learn.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030728967,
+            "title": "Gensim - 用于主题建模和文档相似性分析",
+            "icon": "https://logo.clearbit.com/radimrehurek.com",
+            "url": "https://radimrehurek.com/gensim/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030737100,
+            "title": "NLTK - 用于自然语言处理的库",
+            "icon": "https://logo.clearbit.com/www.nltk.org",
+            "url": "https://www.nltk.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030745033,
+            "title": "spaCy - 用于自然语言处理的工业级库",
+            "icon": "https://logo.clearbit.com/spacy.io",
+            "url": "https://spacy.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030915248,
+            "title": "ONNX -机器学习互操作性的开放标准",
+            "icon": "https://logo.clearbit.com/onnx.ai",
+            "url": "https://onnx.ai/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030951869,
+            "title": "PaddlePaddle-一个源自工业实践的开源深度学习平台",
+            "icon": "https://logo.clearbit.com/www.paddlepaddle.org.cn",
+            "url": "https://www.paddlepaddle.org.cn/en?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030969557,
+            "title": "JAX-高性能数组计算",
+            "icon": "https://logo.clearbit.com/jax.readthedocs.io",
+            "url": "https://jax.readthedocs.io/en/latest/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724030991134,
+            "title": "MLlib-MLlib-Apache Spark 的可扩展机器学习库。",
+            "icon": "https://logo.clearbit.com/spark.apache.org",
+            "url": "https://spark.apache.org/mllib/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          },
+          {
+            "type": "link",
+            "addDate": 1724031032625,
+            "title": "MLflow - 机器学习生命周期管理工具",
+            "icon": "https://logo.clearbit.com/mlflow.org",
+            "url": "https://mlflow.org/?spm=5176.28103460.0.0.3846572cEsNjvE"
+          }
+        ]
       },
       {
         "type": "folder",
@@ -29,855 +270,169 @@
         "children": [
           {
             "type": "folder",
-            "addDate": 1616123773380,
-            "title": "特征",
+            "addDate": 1723444495435,
+            "title": "入门课程",
             "children": [
               {
                 "type": "link",
-                "addDate": 1524647884000,
-                "title": "机器学习笔记 (十一) 特征选择和稀疏学习 - CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/fjssharpsword/article/details/70145130"
+                "addDate": 1723444495451,
+                "title": "Coursera | Degrees, Certificates, & Free Online Courses",
+                "icon": "https://logo.clearbit.com/www.coursera.org",
+                "url": "https://www.coursera.org/"
               },
               {
                 "type": "link",
-                "addDate": 1567698089000,
-                "title": "如何进行特征选择 - datoutong_的博客 - CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/datoutong_/article/details/78813233"
+                "addDate": 1723444495457,
+                "title": "DeepLearning.AI: Start or Advance Your Career in AI",
+                "icon": "https://logo.clearbit.com/www.deeplearning.ai",
+                "url": "https://www.deeplearning.ai/"
               },
               {
                 "type": "link",
-                "addDate": 1576594974000,
-                "title": "比赛做特征工程是一个一个特征加进去试试比较好，还是先做完一堆特征然后再挑比较好？@管理员 AI 指北-DataFountain",
-                "icon": "https://logo.clearbit.com/discussion.datafountain.cn",
-                "url": "https://discussion.datafountain.cn/questions/1445"
+                "addDate": 1723444495451,
+                "title": "Kaggle: Your Machine Learning and Data Science Community",
+                "icon": "https://logo.clearbit.com/www.kaggle.com",
+                "url": "https://www.kaggle.com/"
               },
               {
                 "type": "link",
-                "addDate": 1577172498000,
-                "title": "降维：特征选择与特征提取 - Cvjark 的博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/weixin_43084928/article/details/82826627"
+                "addDate": 1723444495451,
+                "title": "Artificial Intelligence (AI) Courses & Training | Udacity",
+                "icon": "https://logo.clearbit.com/www.udacity.com",
+                "url": "https://www.udacity.com/school/artificial-intelligence"
               },
               {
                 "type": "link",
-                "addDate": 1577172511000,
-                "title": "机器学习：特征工程、特征提取、特征选择与数据降维间的关系 - mechleechan 的博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/mechleechan/article/details/87153050"
+                "addDate": 1723444495458,
+                "title": "Create ML Overview - Machine Learning - Apple Developer",
+                "icon": "https://logo.clearbit.com/developer.apple.com",
+                "url": "https://developer.apple.com/machine-learning/create-ml/"
               },
               {
                 "type": "link",
-                "addDate": 1577172514000,
-                "title": "机器学习之特征选择和特征抽取 - 喂你在哪 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/dyl222/p/11055756.html"
+                "addDate": 1723444495458,
+                "title": "Amazon SageMaker 机器学习_机器学习模型构建训练部署-AWS 云服务",
+                "icon": "https://logo.clearbit.com/aws.amazon.com",
+                "url": "https://aws.amazon.com/cn/sagemaker/"
               },
               {
                 "type": "link",
-                "addDate": 1577973894000,
-                "title": "特征工程 - 标签 - 会飞的蝸牛 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/stevenlk/tag/%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B/"
+                "addDate": 1723444495448,
+                "title": "Making AI helpful for everyone - Google AI – Google AI",
+                "icon": "https://logo.clearbit.com/ai.google",
+                "url": "https://ai.google/?ref=feizhuke.com"
               },
               {
                 "type": "link",
-                "addDate": 1577975845000,
-                "title": "数据和特征决定了机器学习的上限，而模型和算法只是逼近这个上限而已。 - 云 + 社区 - 腾讯云",
-                "icon": "https://logo.clearbit.com/cloud.tencent.com",
-                "url": "https://cloud.tencent.com/developer/article/1425552"
+                "addDate": 1723444495450,
+                "title": "Start Here with Machine Learning",
+                "icon": "https://logo.clearbit.com/machinelearningmastery.com",
+                "url": "https://machinelearningmastery.com/start-here/?ref=feizhuke.com"
               },
               {
                 "type": "link",
-                "addDate": 1577975872000,
-                "title": "(51 条消息) 机器学习中，有哪些特征选择的工程方法？ - 知乎",
-                "icon": "https://logo.clearbit.com/www.zhihu.com",
-                "url": "https://www.zhihu.com/question/28641663/answer/825184220"
+                "addDate": 1723444495451,
+                "title": "飞桨 AI Studio 星河社区 - 人工智能学习与实训社区",
+                "icon": "https://logo.clearbit.com/aistudio.baidu.com",
+                "url": "https://aistudio.baidu.com/overview"
               },
               {
                 "type": "link",
-                "addDate": 1578036160000,
-                "title": "scikit-learn--Feature selection(特征选择) - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/b3056d10a20f"
+                "addDate": 1723444495457,
+                "title": "人工智能学习路线（学 + 测） - 阿里云开发者社区",
+                "icon": "https://logo.clearbit.com/developer.aliyun.com",
+                "url": "https://developer.aliyun.com/learning/roadmap/ai?ref=feizhuke.com"
               },
               {
                 "type": "link",
-                "addDate": 1578140150000,
-                "title": "基于模型的特征选择详解 (Embedded & Wrapper) - 会飞的蝸牛 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/stevenlk/p/6543646.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1578142999000,
-                "title": "[scikit-learn] 大数据学习 - 特征选取 - 单变量特征选取 – 王政乔 | 中国",
-                "icon": "https://logo.clearbit.com/me.zhengqiao.wang",
-                "url": "http://me.zhengqiao.wang/index.php/2019/08/15/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0-%E7%89%B9%E5%BE%81%E9%80%89%E5%8F%96-%E5%8D%95%E5%8F%98%E9%87%8F%E7%89%B9%E5%BE%81%E9%80%89%E5%8F%96/"
-              },
-              {
-                "type": "link",
-                "addDate": 1578148095000,
-                "title": "特征选择：方差选择法、卡方检验、互信息法、递归特征消除、L1 范数、树模型 - wzd321 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/wzdLY/p/9689547.html"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1616123773385,
-            "title": "神经网络",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1527837398000,
-                "title": "神经网络反向传播算法",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/25609953"
-              },
-              {
-                "type": "link",
-                "addDate": 1555598971000,
-                "title": "从 Logistic 回归到神经网络 - hellocsz 的博客 - CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/hellocsz/article/details/80708996"
-              },
-              {
-                "type": "link",
-                "addDate": 1555598978000,
-                "title": "从 Logistic 回归到神经网络_慕课手记",
-                "icon": "https://logo.clearbit.com/www.imooc.com",
-                "url": "https://www.imooc.com/article/36749"
-              },
-              {
-                "type": "link",
-                "addDate": 1557070856000,
-                "title": "【西瓜书笔记】——神经网络 - 锟金铐鏜鏜鏜 - CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/qq_25134999/article/details/83042700"
-              },
-              {
-                "type": "link",
-                "addDate": 1557070883000,
-                "title": "神经网络与深度学习（一）- Logistic Regression as a Neural Network - mike112223 的博客 - CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/mike112223/article/details/77963418"
-              },
-              {
-                "type": "link",
-                "addDate": 1557070893000,
-                "title": "一文看懂 25 个神经网络模型 - 不积跬步，无以至千里 - CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/dujiahei/article/details/80965661"
-              },
-              {
-                "type": "link",
-                "addDate": 1557367258000,
-                "title": "【cs231n】神经网络学习笔记 1 - 向前奔跑的少年 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/kk17/p/9693422.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1560267377000,
-                "title": "深度学习之神经网络的结构 - Stoooner - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/koushihao/p/7905508.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1560267604000,
-                "title": "CS231n 课程笔记翻译：卷积神经网络笔记 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit"
-              },
-              {
-                "type": "link",
-                "addDate": 1562223648000,
-                "title": "用 Python 从头开始实现一个神经网络 - young2415 的博客 - CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/young2415/article/details/81772068"
-              },
-              {
-                "type": "link",
-                "addDate": 1533046839000,
-                "title": "关于第一篇博客（第七章学习）的补充——LM 神经网络模型 - CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/sinat_33519513/article/details/75230727"
-              },
-              {
-                "type": "link",
-                "addDate": 1527837401000,
-                "title": "BP 神经网络 —— 逆向传播的艺术",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/36711903"
-              },
-              {
-                "type": "link",
-                "addDate": 1527837404000,
-                "title": "通俗理解神经网络 BP 传播算法",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/24801814"
-              },
-              {
-                "type": "link",
-                "addDate": 1564393978000,
-                "title": "BP 神经网络拟合非线性函数 - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/7e2f32b7aca0"
-              },
-              {
-                "type": "link",
-                "addDate": 1564475483000,
-                "title": "神经网络——反向传播 BP 算法公式推导 - Baby-Lily - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/baby-lily/p/10747473.html"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1616123773393,
-            "title": "树模型",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1523849883000,
-                "title": "bootstrap, boosting, bagging 几种方法的联系 - CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/chenhongc/article/details/9404583"
-              },
-              {
-                "type": "link",
-                "addDate": 1571297098000,
-                "title": "(26 条消息) 为什么说 bagging 是减少 variance，而 boosting 是减少 bias? - 知乎",
-                "icon": "https://logo.clearbit.com/www.zhihu.com",
-                "url": "https://www.zhihu.com/question/26760839"
-              },
-              {
-                "type": "link",
-                "addDate": 1574242295000,
-                "title": "总结：Bootstrap(自助法)，Bagging，Boosting(提升) - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/708dff71df3a"
-              },
-              {
-                "type": "link",
-                "addDate": 1574242336000,
-                "title": "Bagging 和 Boosting 概念及区别 - liuwu265 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/liuwu265/p/4690486.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1574242386000,
-                "title": "常用的模型集成方法介绍：bagging、boosting、stacking - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/65888174"
-              },
-              {
-                "type": "link",
-                "addDate": 1574909383000,
-                "title": "Catboost 一个超级简单实用的 boost 算法 - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/49ab87122562"
-              },
-              {
-                "type": "link",
-                "addDate": 1571042054000,
-                "title": "《机器学习》周志华西瓜书 笔记/习题答案 总目录 - 种树最好的时间是 10 年前，其次是现在！！！ - CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/TeFuirnever/article/details/96178919"
-              },
-              {
-                "type": "link",
-                "addDate": 1574909064000,
-                "title": "集成树模型 GridSearchCV，stacking - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/39834119"
-              },
-              {
-                "type": "link",
-                "addDate": 1574988593000,
-                "title": "集成学习 - 提升树 - 努力的孔子 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/yanshw/p/11096164.html"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1616123773394,
-            "title": "LDA",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1579052263000,
-                "title": "(1 条消息)LDA-原理解析_Nine days-CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/u011808673/article/details/82497195"
-              },
-              {
-                "type": "link",
-                "addDate": 1579052265000,
-                "title": "【算法】LDA 算法及应用",
-                "icon": "https://logo.clearbit.com/www.sohu.com",
-                "url": "http://www.sohu.com/a/231199100_295682"
-              },
-              {
-                "type": "link",
-                "addDate": 1579052267000,
-                "title": "通俗理解 LDA 主题模型 - 云 + 社区 - 腾讯云",
-                "icon": "https://logo.clearbit.com/cloud.tencent.com",
-                "url": "https://cloud.tencent.com/developer/article/1058777"
-              },
-              {
-                "type": "link",
-                "addDate": 1579052271000,
-                "title": "线性判别分析——LDA 算法的实现与应用_慕课手记",
-                "icon": "https://logo.clearbit.com/www.imooc.com",
-                "url": "http://www.imooc.com/article/287465"
-              },
-              {
-                "type": "link",
-                "addDate": 1579052279000,
-                "title": "(1 条消息)LDA 算法详解_啊李-CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/qq_27015119/article/details/80819548"
-              },
-              {
-                "type": "link",
-                "addDate": 1579052282000,
-                "title": "(1 条消息) 线性判别分析 LDA 详解_算法分析，机器学习，模式识别_never give up 的博客-CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/gdut2015go/article/details/46531793"
-              },
-              {
-                "type": "link",
-                "addDate": 1579052285000,
-                "title": "(1 条消息) 线性判别分析 (Linear Discriminant Analysis, LDA）算法分析_szv123_rier 的专栏-CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/szv123_rier/article/details/8766538"
-              },
-              {
-                "type": "link",
-                "addDate": 1579052287000,
-                "title": "(1 条消息)LDA 线性判别分析_porly 的专栏-CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/porly/article/details/8020696"
-              },
-              {
-                "type": "link",
-                "addDate": 1579052294000,
-                "title": "LDA 有标签数据降维 - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/28da5c160230"
-              },
-              {
-                "type": "link",
-                "addDate": 1579052295000,
-                "title": "动手学深度学习",
+                "addDate": 1723444495458,
+                "title": "《动手学深度学习》 — 动手学深度学习 2.0.0 documentation",
                 "icon": "https://logo.clearbit.com/zh.d2l.ai",
-                "url": "https://zh.d2l.ai/d2l-zh.pdf"
+                "url": "https://zh.d2l.ai/?ref=feizhuke.com"
               },
               {
                 "type": "link",
-                "addDate": 1579225188000,
-                "title": "P24 无监督学习 - 线性降维 - LeeML-Notes",
-                "icon": "https://logo.clearbit.com/datawhalechina.github.io",
-                "url": "https://datawhalechina.github.io/leeml-notes/#/chapter24/chapter24?id=%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90"
+                "addDate": 1723444495458,
+                "title": "DeepLearning.AI: Start or Advance Your Career in AI",
+                "icon": "https://logo.clearbit.com/www.deeplearning.ai",
+                "url": "https://www.deeplearning.ai/?ref=feizhuke.com"
               },
               {
                 "type": "link",
-                "addDate": 1579244932000,
-                "title": "10 套练习，教你如何用 Pandas 做数据分析【6-10】 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/76929640"
+                "addDate": 1723444495458,
+                "title": "Machine Learning for Beginners",
+                "icon": "https://logo.clearbit.com/microsoft.github.io",
+                "url": "https://microsoft.github.io/ML-For-Beginners/#/?ref=feizhuke.com"
               },
               {
                 "type": "link",
-                "addDate": 1579278664000,
-                "title": "线性判别分析（Linear Discriminant Analysis）_Daunxx 的专栏-CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/daunxx/article/details/51881956"
+                "addDate": 1699235537900,
+                "title": "Machine Learning for Beginners",
+                "icon": "https://logo.clearbit.com/microsoft.github.io",
+                "url": "https://microsoft.github.io/generative-ai-for-beginners/#/01-introduction-to-genai/README?wt.mc_id=academic-105485-koreyst"
+              },
+              {
+                "type": "link",
+                "addDate": 1723447036800,
+                "title": "fast.ai – fast.ai—Making neural nets uncool again",
+                "icon": "https://logo.clearbit.com/www.fast.ai",
+                "url": "https://www.fast.ai/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1636814112362,
-            "title": "LightGBM",
+            "addDate": 1723444680816,
+            "title": "竞赛平台",
             "children": [
               {
                 "type": "link",
-                "addDate": 1636814135357,
-                "title": "(1027 条消息) Lightgbm 源论文解析：LightGBM: A Highly Efficient Gradient Boosting Decision Tree_anshuai_aw1 的博客-CSDN 博客_lightgbm 论文",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/anshuai_aw1/article/details/83048709"
+                "addDate": 1723444680830,
+                "title": "天池大数据竞赛_天池大赛 - 阿里云天池",
+                "icon": "https://logo.clearbit.com/tianchi.aliyun.com",
+                "url": "https://tianchi.aliyun.com/competition/activeList"
               },
               {
                 "type": "link",
-                "addDate": 1636814132412,
-                "title": "30 分钟搞定数据竞赛刷分夺冠神器 LightGBM！",
-                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-                "url": "https://mp.weixin.qq.com/s/i_pHsnwK738d9TTfXOkK8A"
+                "addDate": 1723444680831,
+                "title": "数据竞赛 - Heywhale 和鲸（官网）- 数据科学协同创新平台",
+                "icon": "https://logo.clearbit.com/www.heywhale.com",
+                "url": "https://www.heywhale.com/about/competition"
               },
               {
                 "type": "link",
-                "addDate": 1636814127493,
-                "title": "集成算法终极模型之《神器 LightGBM》—最后的高山",
-                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-                "url": "https://mp.weixin.qq.com/s/iPX0PwRnNMmouNfc6OA7SA"
+                "addDate": 1723444680833,
+                "title": "AI 算法大赛 - 飞桨 AI Studio 星河社区 - 人工智能学习与实训社区",
+                "icon": "https://logo.clearbit.com/aistudio.baidu.com",
+                "url": "https://aistudio.baidu.com/competition"
               },
               {
                 "type": "link",
-                "addDate": 1636814151534,
-                "title": "LightGBM 源码阅读 + 理论分析（处理特征类别，缺省值的实现细节）",
-                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-                "url": "https://mp.weixin.qq.com/s/XxFHmxV4_iDq8ksFuZM02w"
+                "addDate": 1723445994155,
+                "title": "DataCastle-数据科学创新与实践平台",
+                "icon": "https://logo.clearbit.com/www.datacastle.cn",
+                "url": "https://www.datacastle.cn/index.html"
               },
               {
                 "type": "link",
-                "addDate": 1636814153437,
-                "title": "深入理解 LightGBM - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/99069186"
+                "addDate": 1723444680834,
+                "title": "DataFountain - 数据科学竞赛创新平台",
+                "icon": "https://logo.clearbit.com/www.datafountain.cn",
+                "url": "https://www.datafountain.cn/"
               },
               {
                 "type": "link",
-                "addDate": 1636814155862,
-                "title": "(1025 条消息) 集成算法终极模型之《神器 LightGBM》—最后的高山_数据森麟-CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/weixin_38753213/article/details/112343284"
+                "addDate": 1723444680834,
+                "title": "Kaggle Competitions",
+                "icon": "https://logo.clearbit.com/www.kaggle.com",
+                "url": "https://www.kaggle.com/competitions"
               },
               {
                 "type": "link",
-                "addDate": 1636814158005,
-                "title": "机器学习算法之 LightGBM – 标点符",
-                "icon": "https://logo.clearbit.com/www.biaodianfu.com",
-                "url": "https://www.biaodianfu.com/lightgbm.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1637078983273,
-                "title": "XGBoost、LightGBM 的原理、公式推导、Python 实现和应用 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/366586531"
-              },
-              {
-                "type": "link",
-                "addDate": 1637078994241,
-                "title": "LightGBM 算法原理小结",
-                "icon": "https://logo.clearbit.com/posts.careerengine.us",
-                "url": "https://posts.careerengine.us/p/5d60ad6950812d6fe01e740f"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1663059666702,
-            "title": "评估指标",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1562738685000,
-                "title": "分类模型评估的方法及 Python 实现 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/50891706"
-              },
-              {
-                "type": "link",
-                "addDate": 1576027379000,
-                "title": "机器学习评估指标 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/36305931"
-              },
-              {
-                "type": "link",
-                "addDate": 1576745083000,
-                "title": "乱弹机器学习评估指标 AUC - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/52930683"
-              },
-              {
-                "type": "link",
-                "addDate": 1578406189000,
-                "title": "交叉验证、模型评估 - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/7820ebb6d72a"
-              },
-              {
-                "type": "link",
-                "addDate": 1583735949000,
-                "title": "【推荐收藏】模型评估与调参（Python 版） - 云 + 社区 - 腾讯云",
-                "icon": "https://logo.clearbit.com/cloud.tencent.com",
-                "url": "https://cloud.tencent.com/developer/article/1459635"
-              },
-              {
-                "type": "link",
-                "addDate": 1564533140000,
-                "title": "第 2 章 模型评估 - 南瓜书 PumpkinBook",
-                "icon": "https://logo.clearbit.com/datawhalechina.github.io",
-                "url": "https://datawhalechina.github.io/pumpkin-book/#/chapter2/chapter2"
-              },
-              {
-                "type": "link",
-                "addDate": 1567605265000,
-                "title": "Python 机器学习笔记：常用评估指标的用法 - 战争热诚 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/wj-1314/p/9400375.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1567151663000,
-                "title": "(2 条消息) 精确率、召回率、F1 值、ROC、AUC 各自的优缺点是什么？ - 知乎",
-                "icon": "https://logo.clearbit.com/www.zhihu.com",
-                "url": "https://www.zhihu.com/question/30643044/answer/222274170"
-              },
-              {
-                "type": "link",
-                "addDate": 1574612115000,
-                "title": "ROC、AUC、经验误差和估计方法 - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/9433934b9042"
-              },
-              {
-                "type": "link",
-                "addDate": 1574612143000,
-                "title": "(11 条消息)AUC，ROC 我看到的最透彻的讲解 - u013385925 的专栏 - CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/u013385925/article/details/80385873"
-              },
-              {
-                "type": "link",
-                "addDate": 1662016005213,
-                "title": "机器学习电子书下载",
-                "icon": "https://logo.clearbit.com/www.dbooks.org",
-                "url": "https://www.dbooks.org/search/?q=process+mining+data+science+in+action"
-              },
-              {
-                "type": "link",
-                "addDate": 1562850761000,
-                "title": "ROC 分析当中的 AUC 和 Mann-Whitney U statistic 的关系 | 球星的年轮",
-                "icon": "https://logo.clearbit.com/qiuxing.wordpress.com",
-                "url": "https://qiuxing.wordpress.com/2011/01/02/auc-mann-whitney-u/"
-              },
-              {
-                "type": "link",
-                "addDate": 1562850768000,
-                "title": "请问 ROC 曲线的 AUC 和 Mann–Whitney 等价这个是怎么证明的？ - 知乎",
-                "icon": "https://logo.clearbit.com/www.zhihu.com",
-                "url": "https://www.zhihu.com/question/41299242/answer/401213712"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1663059795661,
-            "title": "异常检测",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1590847802000,
-                "title": "异常检测 (Anomaly Detection) - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/620b584c2941"
-              },
-              {
-                "type": "link",
-                "addDate": 1581905586000,
-                "title": "异常检测（anomaly/ outlier detection）领域还有那些值得研究的问题？ - 知乎",
-                "icon": "https://logo.clearbit.com/www.zhihu.com",
-                "url": "https://www.zhihu.com/question/324999831/answer/716118043"
-              },
-              {
-                "type": "link",
-                "addDate": 1581906024000,
-                "title": "【Python 数据分析基础】: 异常值检测和处理 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/41528651"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907353000,
-                "title": "异常检测（iforest）孤立森林 做反欺诈 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/37953801"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907364000,
-                "title": "用 PyOD 工具库进行「异常检测」 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/58313521"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907371000,
-                "title": "机器学习 - 异常检测算法（三）：Principal Component Analysis - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/29091645"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907388000,
-                "title": "异常值检测 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/31962738"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907391000,
-                "title": "异常值检测复习笔记 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/104677362"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907394000,
-                "title": "机器学习 - 异常检测算法（一）：Isolation Forest - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/27777266"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907397000,
-                "title": "机器学习 - 异常检测算法（二）：Local Outlier Factor - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/28178476"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907399000,
-                "title": "异常检测简介：概念与技术 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/29784187"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907411000,
-                "title": "论文：《使用深度学习进行异常检测的方法综述》（第五部分）- 飘哥翻译 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/68483623"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907422000,
-                "title": "Anomaly Detection 异常检测基础 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/61010350"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907431000,
-                "title": "张全蛋告诉你什么是异常检测 (Anomaly Detection) - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/33481792"
-              },
-              {
-                "type": "link",
-                "addDate": 1581907436000,
-                "title": "数据预处理 - 异常值识别 - bonelee - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/bonelee/p/9728653.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1581911561000,
-                "title": "(2 条消息) 异常值检测_GG 的专栏-CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/u010945683/article/details/79639664"
-              },
-              {
-                "type": "link",
-                "addDate": 1581911569000,
-                "title": "(2 条消息) 异常值检测算法_人工智能_panda_zjd 的博客-CSDN 博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/panda_zjd/article/details/71810859"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1663059904687,
-            "title": "bert",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1657091653334,
-                "title": "Huggingface 简介及 BERT 代码浅析 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/120315111"
-              },
-              {
-                "type": "link",
-                "addDate": 1614842151000,
-                "title": "(13 条消息) 【BERT 蒸馏】DistilBERT、Distil-LSTM、TinyBERT、FastBERT（论文 + 代码）_一个 nlp 探险者的博客-CSDN 博客_distilbert",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/qq_38556984/article/details/109256544"
-              },
-              {
-                "type": "link",
-                "addDate": 1614937432000,
-                "title": "GitHub - Morizeyao/GPT2-Chinese: Chinese version of GPT2 training code, using BERT tokenizer.",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/Morizeyao/GPT2-Chinese"
-              },
-              {
-                "type": "link",
-                "addDate": 1614938409000,
-                "title": "干货 | BERT fine-tune 终极实践教程 - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/aa2eff7ec5c1"
-              },
-              {
-                "type": "link",
-                "addDate": 1614938411000,
-                "title": "使用 BERT 进行 fine-tuning - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/80a809147491"
-              },
-              {
-                "type": "link",
-                "addDate": 1614938485000,
-                "title": "语义表示模型新方向《DistillBert》 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/89522799"
-              },
-              {
-                "type": "link",
-                "addDate": 1612194426000,
-                "title": "An Introduction To Data Science On The Linux Command Line",
-                "icon": "https://logo.clearbit.com/blog.robertelder.org",
-                "url": "https://blog.robertelder.org/data-science-linux-command-line/"
-              },
-              {
-                "type": "link",
-                "addDate": 1651226716513,
-                "title": "transformer 详解：transformer/ universal transformer/ transformer-XL – 彼得·攀的小站",
-                "icon": "https://logo.clearbit.com/akeeper.space",
-                "url": "https://akeeper.space/blog/701.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1614844098000,
-                "title": "Vision Transformer 超详细解读 (原理分析 + 代码解读) (一) - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/340149804"
-              },
-              {
-                "type": "link",
-                "addDate": 1614844102000,
-                "title": "Transformer 模型详解（图解最完整版） - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/338817680"
-              },
-              {
-                "type": "link",
-                "addDate": 1614923685000,
-                "title": "nlp 中的 Attention 注意力机制+Transformer 详解 - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/53682800"
-              },
-              {
-                "type": "link",
-                "addDate": 1612194218000,
-                "title": "Notes on linear transformations",
-                "icon": "https://logo.clearbit.com/www.monades.dev",
-                "url": "https://www.monades.dev/notes-on-linear-transformations/#resources"
-              },
-              {
-                "type": "link",
-                "addDate": 1612194320000,
-                "title": "Introduction to Computer Graphics, Section 2.3 -- Transforms",
-                "icon": "https://logo.clearbit.com/math.hws.edu",
-                "url": "http://math.hws.edu/graphicsbook/c2/s3.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1651755128256,
-                "title": "Transformers from Scratch",
-                "icon": "https://logo.clearbit.com/e2eml.school",
-                "url": "https://e2eml.school/transformers.html"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1663059990003,
-            "title": "TF",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1565099567000,
-                "title": "简介 - TensorFlow 官方文档中文版 - 极客学院 Wiki",
-                "icon": "https://logo.clearbit.com/wiki.jikexueyuan.com",
-                "url": "http://wiki.jikexueyuan.com/project/tensorflow-zh/get_started/introduction.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1577118107000,
-                "title": "神经网络与深度学习——TensorFlow2.0 实战_西安科技大学_中国大学 MOOC(慕课)",
-                "icon": "https://logo.clearbit.com/www.icourse163.org",
-                "url": "https://www.icourse163.org/course/0809XUST002-1206363802#/info"
-              },
-              {
-                "type": "link",
-                "addDate": 1639538800261,
-                "title": "基于 python 语言的 tensorflow 的‘端到端’的字符型验证码识别源码整理 (github 源码分享) - 一点一滴的 Beer - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/beer/p/7392397.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1622384015612,
-                "title": "TensorFlow 2.0 中文手写字识别（汉字 OCR） - 知乎",
-                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-                "url": "https://zhuanlan.zhihu.com/p/68356509"
-              },
-              {
-                "type": "link",
-                "addDate": 1594892690000,
-                "title": "Anfany/Machine-Learning-for-Beginner-by-Python3: 为机器学习的入门者提供多种基于实例的 sklearn、TensorFlow 以及自编函数 (AnFany) 的 ML 算法程序。",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/Anfany/Machine-Learning-for-Beginner-by-Python3"
-              },
-              {
-                "type": "link",
-                "addDate": 1612195546000,
-                "title": "TensorFlow, Keras and deep learning, without a PhD",
-                "icon": "https://logo.clearbit.com/codelabs.developers.google.com",
-                "url": "https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0"
-              },
-              {
-                "type": "link",
-                "addDate": 1651755120048,
-                "title": "MNIST 机器学习入门 - TensorFlow 官方文档中文版 - 极客学院 Wiki",
-                "icon": "https://logo.clearbit.com/wiki.jikexueyuan.com",
-                "url": "https://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_beginners.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1567582704000,
-                "title": "GitHub - lawlite19/MachineLearning_TensorFlow: TensorFlow 学习",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/lawlite19/MachineLearning_TensorFlow"
-              },
-              {
-                "type": "link",
-                "addDate": 1565020442000,
-                "title": "为什么选择 Keras? - Keras 中文文档",
-                "icon": "https://logo.clearbit.com/keras.io",
-                "url": "https://keras.io/zh/why-use-keras/"
-              },
-              {
-                "type": "link",
-                "addDate": 1524809525000,
-                "title": "Keras 中文文档",
-                "icon": "https://logo.clearbit.com/keras-cn.readthedocs.io",
-                "url": "http://keras-cn.readthedocs.io/en/latest/"
+                "addDate": 1723444732401,
+                "title": "MindSpore 官网",
+                "icon": "https://logo.clearbit.com/www.mindspore.cn",
+                "url": "https://www.mindspore.cn/"
               }
             ]
           }
@@ -902,20 +457,6 @@
         "addDate": 1723170707903,
         "title": "大模型",
         "children": [
-          {
-            "type": "link",
-            "addDate": 1711163374143,
-            "title": "豆包 - 抖音旗下 AI 智能助手",
-            "icon": "https://logo.clearbit.com/www.doubao.com",
-            "url": "https://www.doubao.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1704269241164,
-            "title": "Kimi Chat - 帮你看更大的世界",
-            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-            "url": "https://kimi.moonshot.cn/chat/cm9movalnl97c93k84mg"
-          },
           {
             "type": "link",
             "addDate": 1723180232332,
@@ -946,6 +487,27 @@
           },
           {
             "type": "link",
+            "addDate": 1723181199487,
+            "title": "Meta AI",
+            "icon": "https://logo.clearbit.com/www.meta.ai",
+            "url": "https://www.meta.ai/?icebreaker=imagine"
+          },
+          {
+            "type": "link",
+            "addDate": 1711163374143,
+            "title": "豆包 - 抖音旗下 AI 智能助手",
+            "icon": "https://logo.clearbit.com/www.doubao.com",
+            "url": "https://www.doubao.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1704269241164,
+            "title": "Kimi Chat - 帮你看更大的世界",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/chat/cm9movalnl97c93k84mg"
+          },
+          {
+            "type": "link",
             "addDate": 1723180849588,
             "title": "智谱清言",
             "icon": "https://logo.clearbit.com/chatglm.cn",
@@ -967,17 +529,38 @@
           },
           {
             "type": "link",
-            "addDate": 1723181199487,
-            "title": "Meta AI",
-            "icon": "https://logo.clearbit.com/www.meta.ai",
-            "url": "https://www.meta.ai/?icebreaker=imagine"
-          },
-          {
-            "type": "link",
             "addDate": 1723181333106,
             "title": "DeepSeek",
             "icon": "https://logo.clearbit.com/chat.deepseek.com",
             "url": "https://chat.deepseek.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723184138578,
+            "title": "Chatbox AI 官网：办公学习的 AI 好助手，全平台 AI 客户端，官方免费下载",
+            "icon": "https://logo.clearbit.com/chatboxai.app",
+            "url": "https://chatboxai.app/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1723184880364,
+            "title": "文心一言",
+            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+            "url": "https://yiyan.baidu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446893857,
+            "title": "讯飞星火大模型-AI 大语言模型 - 星火大模型 - 科大讯飞",
+            "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+            "url": "https://xinghuo.xfyun.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446897109,
+            "title": "Notion AI | Now with Q&A",
+            "icon": "https://logo.clearbit.com/www.notion.so",
+            "url": "https://www.notion.so/product/ai"
           }
         ]
       },
@@ -992,6 +575,83 @@
             "title": "DeepSeek 代码助手",
             "icon": "https://logo.clearbit.com/chat.deepseek.com",
             "url": "https://chat.deepseek.com/coder"
+          },
+          {
+            "type": "link",
+            "addDate": 1723186145107,
+            "title": "GitHub Copilot · Your AI pair programmer",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/features/copilot"
+          },
+          {
+            "type": "link",
+            "addDate": 1723186177334,
+            "title": "Llama Coder – AI Code Generator",
+            "icon": "https://logo.clearbit.com/llamacoder.together.ai",
+            "url": "https://llamacoder.together.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723186191788,
+            "title": "Cursor",
+            "icon": "https://logo.clearbit.com/www.cursor.com",
+            "url": "https://www.cursor.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446237512,
+            "title": "MarsCode - AI IDE",
+            "icon": "https://logo.clearbit.com/www.marscode.com",
+            "url": "https://www.marscode.com/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446572643,
+            "title": "Warp: Your terminal, reimagined",
+            "icon": "https://logo.clearbit.com/www.warp.dev",
+            "url": "https://www.warp.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446630559,
+            "title": "Jam | Build a bug-free product.",
+            "icon": "https://logo.clearbit.com/jam.dev",
+            "url": "https://jam.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446633622,
+            "title": "Meaningful Code Tests for Busy Devs | CodiumAI",
+            "icon": "https://logo.clearbit.com/www.codium.ai",
+            "url": "https://www.codium.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446927031,
+            "title": "AI 编码助手 — Amazon Q 开发者版 — AWS",
+            "icon": "https://logo.clearbit.com/aws.amazon.com",
+            "url": "https://aws.amazon.com/cn/q/developer/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446956889,
+            "title": "Bookmarks",
+            "icon": "https://logo.clearbit.com/bookmarks",
+            "url": "chrome://bookmarks/?id=1905"
+          },
+          {
+            "type": "link",
+            "addDate": 1709912296705,
+            "title": "v0 by Vercel",
+            "icon": "https://logo.clearbit.com/v0.dev",
+            "url": "https://v0.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723448647926,
+            "title": "CodeGeeX - A Multilingual Code Generation Tool - CodeGeeX",
+            "icon": "https://logo.clearbit.com/codegeex.cn",
+            "url": "https://codegeex.cn/"
           }
         ]
       },
@@ -1002,6 +662,41 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1723181104833,
+            "title": "Midjourney",
+            "icon": "https://logo.clearbit.com/www.midjourney.com",
+            "url": "https://www.midjourney.com/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1665845922792,
+            "title": "Stable Diffusion - Home",
+            "icon": "https://logo.clearbit.com/stablediffusion.fr",
+            "url": "https://stablediffusion.fr/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723181156223,
+            "title": "Stability AI Image Models — Stability AI",
+            "icon": "https://logo.clearbit.com/stability.ai",
+            "url": "https://stability.ai/stable-image"
+          },
+          {
+            "type": "link",
+            "addDate": 1723181058658,
+            "title": "图像生成 - 豆包",
+            "icon": "https://logo.clearbit.com/www.doubao.com",
+            "url": "https://www.doubao.com/chat/create-image"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446419712,
+            "title": "文心一格 - AI 艺术和创意辅助平台",
+            "icon": "https://logo.clearbit.com/yige.baidu.com",
+            "url": "https://yige.baidu.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1723180975478,
             "title": "AI 画图 - 智谱清言智能体",
             "icon": "https://logo.clearbit.com/chatglm.cn",
@@ -1009,8 +704,15 @@
           },
           {
             "type": "link",
+            "addDate": 1689839655652,
+            "title": "吐司 Tusi.Art",
+            "icon": "https://logo.clearbit.com/tusi.art",
+            "url": "https://tusi.art/"
+          },
+          {
+            "type": "link",
             "addDate": 1723181004367,
-            "title": "AI Image Generator - Create Art, Images & Video | Leonardo AI",
+            "title": "eonardo AI",
             "icon": "https://logo.clearbit.com/leonardo.ai",
             "url": "https://leonardo.ai/"
           },
@@ -1030,38 +732,10 @@
           },
           {
             "type": "link",
-            "addDate": 1723181058658,
-            "title": "图像生成 - 豆包",
-            "icon": "https://logo.clearbit.com/www.doubao.com",
-            "url": "https://www.doubao.com/chat/create-image"
-          },
-          {
-            "type": "link",
-            "addDate": 1723181104833,
-            "title": "Midjourney",
-            "icon": "https://logo.clearbit.com/www.midjourney.com",
-            "url": "https://www.midjourney.com/home"
-          },
-          {
-            "type": "link",
             "addDate": 1723181110207,
             "title": "Free AI Art Generator, AI Art Maker | Stable Diffusion Online",
             "icon": "https://logo.clearbit.com/dreamlike.art",
             "url": "https://dreamlike.art/create"
-          },
-          {
-            "type": "link",
-            "addDate": 1665845922792,
-            "title": "Stable Diffusion - Home",
-            "icon": "https://logo.clearbit.com/stablediffusion.fr",
-            "url": "https://stablediffusion.fr/"
-          },
-          {
-            "type": "link",
-            "addDate": 1723181156223,
-            "title": "Stability AI Image Models — Stability AI",
-            "icon": "https://logo.clearbit.com/stability.ai",
-            "url": "https://stability.ai/stable-image"
           },
           {
             "type": "link",
@@ -1076,6 +750,27 @@
             "title": "Eye for AI - Eye for AI",
             "icon": "https://logo.clearbit.com/eyeforai.xyz",
             "url": "https://eyeforai.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446962875,
+            "title": "DALL·E: Creating images from text | OpenAI",
+            "icon": "https://logo.clearbit.com/openai.com",
+            "url": "https://openai.com/index/dall-e/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723447023424,
+            "title": "AI 大学堂",
+            "icon": "https://logo.clearbit.com/www.aidaxue.com",
+            "url": "https://www.aidaxue.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723774968785,
+            "title": "Free Text-to-Logo and Text-to-Favicon Generator",
+            "icon": "https://logo.clearbit.com/www.logo.surf",
+            "url": "https://www.logo.surf/#generate-favicon"
           }
         ]
       },
@@ -1083,7 +778,36 @@
         "type": "folder",
         "addDate": 1723170553312,
         "title": "AI 音乐",
-        "children": []
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1723446358182,
+            "title": "Sign up | ElevenLabs",
+            "icon": "https://logo.clearbit.com/elevenlabs.io",
+            "url": "https://elevenlabs.io/app/sign-up?redirect=/app/sound-effects"
+          },
+          {
+            "type": "link",
+            "addDate": 1723448952103,
+            "title": "Podwise - Podcast knowledge at 10x speed",
+            "icon": "https://logo.clearbit.com/podwise.ai",
+            "url": "https://podwise.ai/?refer=17yongai.com"
+          },
+          {
+            "type": "link",
+            "addDate": 1723448970338,
+            "title": "通义听悟 - 你的工作学习 AI 助手",
+            "icon": "https://logo.clearbit.com/tingwu.aliyun.com",
+            "url": "https://tingwu.aliyun.com/?refer=17yongai.com"
+          },
+          {
+            "type": "link",
+            "addDate": 1723448973152,
+            "title": "网易天音 - 一站式 AI 音乐创作工具 - 官网",
+            "icon": "https://logo.clearbit.com/tianyin.music.163.com",
+            "url": "https://tianyin.music.163.com/?refer=17yongai.com#/"
+          }
+        ]
       },
       {
         "type": "folder",
@@ -1099,17 +823,66 @@
           },
           {
             "type": "link",
+            "addDate": 1723186100730,
+            "title": "Runway | Tools for human imagination.",
+            "icon": "https://logo.clearbit.com/runwayml.com",
+            "url": "https://runwayml.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723186119302,
+            "title": "HeyGen - AI Video Generator",
+            "icon": "https://logo.clearbit.com/www.heygen.com",
+            "url": "https://www.heygen.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446257071,
+            "title": "AI Video Generator - Create AI Video in Minutes - Free Trial",
+            "icon": "https://logo.clearbit.com/www.synthesia.io",
+            "url": "https://www.synthesia.io/?refer=17yongai.com"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446285010,
+            "title": "Adobe ID",
+            "icon": "https://logo.clearbit.com/auth.services.adobe.com",
+            "url": "https://auth.services.adobe.com/zh_HANS/index.html?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fprojectx_webapp%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fnew.express.adobe.com%252F%253Frefer%253D17yongai.com%2523old_hash%253Dotp%253D545318808%2526from_ims%253Dtrue%2526client_id%253Dprojectx_webapp%2526api%253Dauthorize%2526scope%253Dab.manage%252CAdobeID%252Copenid%252Cread_organizations%252Ccreative_cloud%252Ccreative_sdk%252Ctk_platform%252Ctk_platform_sync%252Caf_byof%252Cstk.a.license_skip.r%252Cstk.a.limited_license.cru%252Cadditional_info.optionalAgreements%252Cuds_read%252Cuds_write%252Caf_ltd_projectx%252Cunified_dev_portal%252Cadditional_info.ownerOrg%252Cadditional_info.roles%252Cadditional_info.roles%252CDCAPI%252Cadditional_info.auth_source%252Cadditional_info.authenticatingAccount%252Cpps.write%252Cpps.delete%252Ctk_platform_grant_free_subscription%252Cpps.read%252Cfirefly_api%252Cadditional_info.projectedProductContext%252Cadobeio.appregistry.read%252Cadobeio.appregistry.write%252Caccount_cluster.read%26state%3D%257B%2522jslibver%2522%253A%2522v2-v0.40.0-4-gdb4f7dc%2522%252C%2522nonce%2522%253A%25222806928072113661%2522%257D%26code_challenge_method%3Dplain%26use_ms_for_expiry%3Dtrue&client_id=projectx_webapp&scope=ab.manage%2CAdobeID%2Copenid%2Cread_organizations%2Ccreative_cloud%2Ccreative_sdk%2Ctk_platform%2Ctk_platform_sync%2Caf_byof%2Cstk.a.license_skip.r%2Cstk.a.limited_license.cru%2Cadditional_info.optionalAgreements%2Cuds_read%2Cuds_write%2Caf_ltd_projectx%2Cunified_dev_portal%2Cadditional_info.ownerOrg%2Cadditional_info.roles%2CDCAPI%2Cadditional_info.auth_source%2Cadditional_info.authenticatingAccount%2Cpps.write%2Cpps.delete%2Ctk_platform_grant_free_subscription%2Cpps.read%2Cfirefly_api%2Cadditional_info.projectedProductContext%2Cadobeio.appregistry.read%2Cadobeio.appregistry.write%2Caccount_cluster.read&state=%7B%22jslibver%22%3A%22v2-v0.40.0-4-gdb4f7dc%22%2C%22nonce%22%3A%222806928072113661%22%7D&relay=33301d11-8d4b-40fb-9eba-49bb4021eb07&locale=zh_HANS&flow_type=token&dctx_id=v%3A2%2Cs%2Cdcp-r%2Cbg%3Aexpress2024%2C45faecb0-e687-11ee-a865-f545a8ca5d2c&idp_flow_type=login&s_p=google%2Cfacebook%2Capple%2Cmicrosoft%2Cline&response_type=token&code_challenge_method=plain&redirect_uri=https%3A%2F%2Fnew.express.adobe.com%2F%3Frefer%3D17yongai.com%23old_hash%3Dotp%3D545318808%26from_ims%3Dtrue%26client_id%3Dprojectx_webapp%26api%3Dauthorize%26scope%3Dab.manage%2CAdobeID%2Copenid%2Cread_organizations%2Ccreative_cloud%2Ccreative_sdk%2Ctk_platform%2Ctk_platform_sync%2Caf_byof%2Cstk.a.license_skip.r%2Cstk.a.limited_license.cru%2Cadditional_info.optionalAgreements%2Cuds_read%2Cuds_write%2Caf_ltd_projectx%2Cunified_dev_portal%2Cadditional_info.ownerOrg%2Cadditional_info.roles%2Cadditional_info.roles%2CDCAPI%2Cadditional_info.auth_source%2Cadditional_info.authenticatingAccount%2Cpps.write%2Cpps.delete%2Ctk_platform_grant_free_subscription%2Cpps.read%2Cfirefly_api%2Cadditional_info.projectedProductContext%2Cadobeio.appregistry.read%2Cadobeio.appregistry.write%2Caccount_cluster.read&use_ms_for_expiry=true#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446285010,
+            "title": "Stability AI releases Stable Animation SDK, a powerful text-to-animation tool for developers. — Stability AI",
+            "icon": "https://logo.clearbit.com/stability.ai",
+            "url": "https://stability.ai/news/stable-animation-sdk"
+          },
+          {
+            "type": "link",
             "addDate": 1723180885978,
             "title": "智谱清言",
             "icon": "https://logo.clearbit.com/chatglm.cn",
             "url": "https://chatglm.cn/video"
+          },
+          {
+            "type": "link",
+            "addDate": 1723448791490,
+            "title": "可灵大模型",
+            "icon": "https://logo.clearbit.com/kling.kuaishou.com",
+            "url": "https://kling.kuaishou.com/?ref=feizhuke.com"
+          },
+          {
+            "type": "link",
+            "addDate": 1723774985942,
+            "title": "Deep Live Cam：实时换脸和一键视频深度伪造工具",
+            "icon": "https://logo.clearbit.com/deeplive.cam",
+            "url": "https://deeplive.cam/zh"
           }
         ]
       },
       {
         "type": "folder",
         "addDate": 1723170617692,
-        "title": "Tools",
+        "title": "AI 工具",
         "children": [
           {
             "type": "link",
@@ -1119,46 +892,144 @@
             "url": "https://yiyibooks.cn/"
           },
           {
-            "type": "folder",
-            "addDate": 1698645281066,
-            "title": "图像",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1698645314771,
-                "title": "Upscayl - AI Image Upscaler",
-                "icon": "https://logo.clearbit.com/www.upscayl.org",
-                "url": "https://www.upscayl.org/#download"
-              },
-              {
-                "type": "link",
-                "addDate": 1698645337892,
-                "title": "Remove Background from Image for Free – remove.bg",
-                "icon": "https://logo.clearbit.com/www.remove.bg",
-                "url": "https://www.remove.bg/"
-              },
-              {
-                "type": "link",
-                "addDate": 1698645377896,
-                "title": "InsightFace: an open source 2D&3D deep face analysis library",
-                "icon": "https://logo.clearbit.com/insightface.ai",
-                "url": "https://insightface.ai/"
-              },
-              {
-                "type": "link",
-                "addDate": 1698645398240,
-                "title": "Picsi.AI | The best personalized portrait creator, powered by InsightFace | Patreon",
-                "icon": "https://logo.clearbit.com/www.patreon.com",
-                "url": "https://www.patreon.com/picsi"
-              },
-              {
-                "type": "link",
-                "addDate": 1698645404541,
-                "title": "一键批量抠图 | 比 ps 抠图更加智能的在线抠图软件 - AI 改图神器",
-                "icon": "https://logo.clearbit.com/img.logosc.cn",
-                "url": "https://img.logosc.cn/remove-bg"
-              }
-            ]
+            "type": "link",
+            "addDate": 1698645314771,
+            "title": "Upscayl - AI Image Upscaler",
+            "icon": "https://logo.clearbit.com/www.upscayl.org",
+            "url": "https://www.upscayl.org/#download"
+          },
+          {
+            "type": "link",
+            "addDate": 1698645337892,
+            "title": "Remove Background from Image for Free – remove.bg",
+            "icon": "https://logo.clearbit.com/www.remove.bg",
+            "url": "https://www.remove.bg/"
+          },
+          {
+            "type": "link",
+            "addDate": 1698645377896,
+            "title": "InsightFace: an open source 2D&3D deep face analysis library",
+            "icon": "https://logo.clearbit.com/insightface.ai",
+            "url": "https://insightface.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1698645398240,
+            "title": "Picsi.AI | The best personalized portrait creator, powered by InsightFace | Patreon",
+            "icon": "https://logo.clearbit.com/www.patreon.com",
+            "url": "https://www.patreon.com/picsi"
+          },
+          {
+            "type": "link",
+            "addDate": 1698645404541,
+            "title": "一键批量抠图 | 比 ps 抠图更加智能的在线抠图软件 - AI 改图神器",
+            "icon": "https://logo.clearbit.com/img.logosc.cn",
+            "url": "https://img.logosc.cn/remove-bg"
+          },
+          {
+            "type": "link",
+            "addDate": 1723184501250,
+            "title": "Media Downloader",
+            "icon": "https://logo.clearbit.com/sinqi.tools",
+            "url": "https://sinqi.tools/zh?utm_source=dokeyai&utm_medium=referral"
+          },
+          {
+            "type": "link",
+            "addDate": 1723795922284,
+            "title": "Doc2X",
+            "icon": "https://logo.clearbit.com/doc2x.noedgeai.com",
+            "url": "https://doc2x.noedgeai.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1723446666278,
+        "title": "AI 研究院",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1723446780072,
+            "title": "中国科学院自动化研究所",
+            "icon": "https://logo.clearbit.com/www.ia.cas.cn",
+            "url": "http://www.ia.cas.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446780074,
+            "title": "北京大学人工智能研究院",
+            "icon": "https://logo.clearbit.com/www.ai.pku.edu.cn",
+            "url": "https://www.ai.pku.edu.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446780074,
+            "title": "清华大学人工智能研究院",
+            "icon": "https://logo.clearbit.com/ml.cs.tsinghua.edu.cn",
+            "url": "https://ml.cs.tsinghua.edu.cn/thuai/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446780074,
+            "title": "复旦大学人工智能创新与产业 (AI³) 研究院",
+            "icon": "https://logo.clearbit.com/ai3.fudan.edu.cn",
+            "url": "https://ai3.fudan.edu.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446780075,
+            "title": "上海交通大学人工智能研究院",
+            "icon": "https://logo.clearbit.com/ai.sjtu.edu.cn",
+            "url": "https://ai.sjtu.edu.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446780075,
+            "title": "北京通用人工智能研究院 – 北京通用人工智能研究院",
+            "icon": "https://logo.clearbit.com/www.mybigai.ac.cn",
+            "url": "https://www.mybigai.ac.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446780075,
+            "title": "腾讯 AI Lab - 腾讯人工智能实验室官网",
+            "icon": "https://logo.clearbit.com/ai.tencent.com",
+            "url": "https://ai.tencent.com/ailab/zh/index/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446780075,
+            "title": "首页 - 达摩院",
+            "icon": "https://logo.clearbit.com/damo.alibaba.com",
+            "url": "https://damo.alibaba.com/?language=zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446780075,
+            "title": "360 智脑 — 以人为本，安全可信",
+            "icon": "https://logo.clearbit.com/ai.360.com",
+            "url": "https://ai.360.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446780076,
+            "title": "探索 HarmonyOS NEXT 系统和鸿蒙原生应用 - 华为开发者联盟",
+            "icon": "https://logo.clearbit.com/developer.huawei.com",
+            "url": "https://developer.huawei.com/consumer/cn/discover/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446780076,
+            "title": "北京智源人工智能研究院",
+            "icon": "https://logo.clearbit.com/www.baai.ac.cn",
+            "url": "https://www.baai.ac.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723446780076,
+            "title": "网易伏羲 - 人机协作·万物有灵",
+            "icon": "https://logo.clearbit.com/fuxi.163.com",
+            "url": "https://fuxi.163.com/"
           }
         ]
       },
@@ -1170,316 +1041,91 @@
       },
       {
         "type": "folder",
-        "addDate": 1616123773397,
-        "title": "竞赛",
+        "addDate": 1723170648036,
+        "title": "机器视觉",
+        "children": []
+      },
+      {
+        "type": "folder",
+        "addDate": 1723430317918,
+        "title": "大模型技术",
         "children": [
           {
             "type": "link",
-            "addDate": 1576831357000,
-            "title": "模型详情 - 图灵联邦",
-            "icon": "https://logo.clearbit.com/www.turingtopia.com",
-            "url": "http://www.turingtopia.com/models/details/notebook/fede9dc82d2d49cf98ee78eb171f979c"
+            "addDate": 1723430456454,
+            "title": "Ollama",
+            "icon": "https://logo.clearbit.com/ollama.com",
+            "url": "https://ollama.com/"
           },
           {
             "type": "link",
-            "addDate": 1576831377000,
-            "title": "python 信用卡欺诈模型建立 - 棒子皮蹦蹦床",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/zs15321583801/article/details/80991642"
+            "addDate": 1723430460293,
+            "title": "LLM: A CLI utility and Python library for interacting with Large Language Models",
+            "icon": "https://logo.clearbit.com/llm.datasette.io",
+            "url": "https://llm.datasette.io/en/stable/"
           },
           {
             "type": "link",
-            "addDate": 1576831493000,
-            "title": "识别失信企业大赛 - 提交数据 - 竞赛",
-            "icon": "https://logo.clearbit.com/sdac.qingdao.gov.cn",
-            "url": "http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%BB%93%E6%9E%9C%E6%8F%90%E4%BA%A4.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1576831524000,
-            "title": "模型融合 - 第二课 - 简书",
-            "icon": "https://logo.clearbit.com/www.jianshu.com",
-            "url": "https://www.jianshu.com/p/03cd90214846"
-          },
-          {
-            "type": "link",
-            "addDate": 1561598228000,
-            "title": "Datasets | Kaggle",
-            "icon": "https://logo.clearbit.com/www.kaggle.com",
-            "url": "https://www.kaggle.com/datasets"
-          },
-          {
-            "type": "link",
-            "addDate": 1577408328000,
-            "title": "mlhub - 机器学习导航站",
-            "icon": "https://logo.clearbit.com/www.mlhub123.com",
-            "url": "https://www.mlhub123.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1577408433000,
-            "title": "mlhub123/mlhub123: 机器学习&深度学习网站资源汇总（Machine Learning Resources）",
+            "addDate": 1723430484720,
+            "title": "ggerganov/llama.cpp: LLM inference in C/C++",
             "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/mlhub123/mlhub123"
+            "url": "https://github.com/ggerganov/llama.cpp"
           },
           {
             "type": "link",
-            "addDate": 1581947794000,
-            "title": "AETA 地震预测 AI 算法大赛 - TinyMind -专注人工智能的技术社区",
-            "icon": "https://logo.clearbit.com/www.tinymind.cn",
-            "url": "https://www.tinymind.cn/competitions/50?sign=aba13e67209048af73ce6f86a7368c01"
+            "addDate": 1723430503554,
+            "title": "vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog",
+            "icon": "https://logo.clearbit.com/blog.vllm.ai",
+            "url": "https://blog.vllm.ai/2023/06/20/vllm.html"
           },
           {
             "type": "link",
-            "addDate": 1581955140000,
-            "title": "机器学习算法基础_共 84 课时 -51CTO 学院",
-            "icon": "https://logo.clearbit.com/edu.51cto.com",
-            "url": "https://edu.51cto.com/course/16585.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1581955170000,
-            "title": "Polynomial Regression Data Fit",
-            "icon": "https://logo.clearbit.com/arachnoid.com",
-            "url": "https://arachnoid.com/polysolve/"
-          },
-          {
-            "type": "link",
-            "addDate": 1582342695000,
-            "title": "DC 共享-DataCastle 大数据竞赛平台",
-            "icon": "https://logo.clearbit.com/www.pkbigdata.com",
-            "url": "https://www.pkbigdata.com/common/share/74.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1582344135000,
-            "title": "[数据清洗]-Pandas 清洗“脏”数据（一） - CodingStar - 博客园",
-            "icon": "https://logo.clearbit.com/www.cnblogs.com",
-            "url": "https://www.cnblogs.com/BoyceYang/p/8182053.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1582344262000,
-            "title": "7 步搞定数据清洗－Python 数据清洗指南 - 知乎",
-            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-            "url": "https://zhuanlan.zhihu.com/p/60241672"
-          },
-          {
-            "type": "link",
-            "addDate": 1582344356000,
-            "title": "[数据清洗]- Pandas 清洗“脏”数据（二） - CodingStar - 博客园",
-            "icon": "https://logo.clearbit.com/www.cnblogs.com",
-            "url": "https://www.cnblogs.com/BoyceYang/p/8186033.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1582473932000,
-            "title": "国家数据",
-            "icon": "https://logo.clearbit.com/data.stats.gov.cn",
-            "url": "http://data.stats.gov.cn/easyquery.htm?cn=E0103"
-          },
-          {
-            "type": "link",
-            "addDate": 1582560761000,
-            "title": "在线正则表达式测试",
-            "icon": "https://logo.clearbit.com/tool.oschina.net",
-            "url": "https://tool.oschina.net/regex/"
-          },
-          {
-            "type": "link",
-            "addDate": 1582600449000,
-            "title": "应该怎么练习使用正则表达式？ - 知乎",
-            "icon": "https://logo.clearbit.com/www.zhihu.com",
-            "url": "https://www.zhihu.com/question/27793187"
-          },
-          {
-            "type": "link",
-            "addDate": 1582624731000,
-            "title": "正则表达式在线测试 - 站长工具",
-            "icon": "https://logo.clearbit.com/tool.chinaz.com",
-            "url": "http://tool.chinaz.com/regex/"
-          },
-          {
-            "type": "link",
-            "addDate": 1582687943000,
-            "title": "葡萄牙银行电话贷款数据分析 - 简书",
-            "icon": "https://logo.clearbit.com/www.jianshu.com",
-            "url": "https://www.jianshu.com/p/ff1eaf73bf99"
-          },
-          {
-            "type": "link",
-            "addDate": 1582710838000,
-            "title": "银行营销数据分析_网络_qq_43608549 的博客-CSDN 博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/qq_43608549/article/details/100826507"
-          },
-          {
-            "type": "link",
-            "addDate": 1582718727000,
-            "title": "机器学习之「二分类算法」-----银行营销案例分析_人工智能_weixin_44696674 的博客-CSDN 博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/weixin_44696674/article/details/88231922"
-          },
-          {
-            "type": "link",
-            "addDate": 1582718751000,
-            "title": "UCI 银行营销数据集--数据集不平衡_Python_AI_Beginner-CSDN 博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/qq_35654046/article/details/85289147"
-          },
-          {
-            "type": "link",
-            "addDate": 1582727716000,
-            "title": "BankMarketing/data_preprocessing.ipynb at master · leungBH/BankMarketing · GitHub",
+            "addDate": 1723430511368,
+            "title": "Mozilla-Ocho/llamafile: Distribute and run LLMs with a single file.",
             "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/leungBH/BankMarketing/blob/master/code/data_preprocessing.ipynb"
+            "url": "https://github.com/Mozilla-Ocho/llamafile"
           },
           {
             "type": "link",
-            "addDate": 1582793135000,
-            "title": "Data Science Glossary on Kaggle",
-            "icon": "https://logo.clearbit.com/www.kaggle.com",
-            "url": "https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/"
+            "addDate": 1723430181369,
+            "title": "Qdrant - Vector Database - Qdrant",
+            "icon": "https://logo.clearbit.com/qdrant.tech",
+            "url": "https://qdrant.tech/"
           },
           {
             "type": "link",
-            "addDate": 1582815146000,
-            "title": "Data Science Glossary on Kaggle",
-            "icon": "https://logo.clearbit.com/www.kaggle.com",
-            "url": "https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/#2.2"
+            "addDate": 1723430224077,
+            "title": "LanceDB - The Database for Multimodal AI",
+            "icon": "https://logo.clearbit.com/lancedb.com",
+            "url": "https://lancedb.com/"
           },
           {
             "type": "link",
-            "addDate": 1564584441000,
-            "title": "DC 竞赛 - 大数据竞赛平台",
-            "icon": "https://logo.clearbit.com/m.dcjingsai.com",
-            "url": "https://m.dcjingsai.com/competition"
+            "addDate": 1723430227571,
+            "title": "Welcome | Weaviate - Vector Database",
+            "icon": "https://logo.clearbit.com/weaviate.io",
+            "url": "https://weaviate.io/"
           },
           {
             "type": "link",
-            "addDate": 1564584444000,
-            "title": "CCF 指定专业大数据及人工智能竞赛平台-DataFountain",
-            "icon": "https://logo.clearbit.com/www.datafountain.cn",
-            "url": "https://www.datafountain.cn/#/home"
+            "addDate": 1723430253839,
+            "title": "The vector database to build knowledgeable AI | Pinecone",
+            "icon": "https://logo.clearbit.com/www.pinecone.io",
+            "url": "https://www.pinecone.io/"
           },
           {
             "type": "link",
-            "addDate": 1564584609000,
-            "title": "DC 竞赛 - 大数据竞赛平台",
-            "icon": "https://logo.clearbit.com/www.dcjingsai.com",
-            "url": "https://www.dcjingsai.com/"
+            "addDate": 1723430269498,
+            "title": "The High-Performance Vector Database Built for Scale | Milvus",
+            "icon": "https://logo.clearbit.com/milvus.io",
+            "url": "https://milvus.io/"
           },
           {
             "type": "link",
-            "addDate": 1564585125000,
-            "title": "国能日新光伏功率预测大赛 - 任务与数据-DC 竞赛",
-            "icon": "https://logo.clearbit.com/www.dcjingsai.com",
-            "url": "https://www.dcjingsai.com/common/cmpt/%E5%9B%BD%E8%83%BD%E6%97%A5%E6%96%B0%E5%85%89%E4%BC%8F%E5%8A%9F%E7%8E%87%E9%A2%84%E6%B5%8B%E5%A4%A7%E8%B5%9B_%E8%B5%9B%E4%BD%93%E4%B8%8E%E6%95%B0%E6%8D%AE.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1564585263000,
-            "title": "国能日新光伏功率预测大赛 - 我的队伍-DC 竞赛",
-            "icon": "https://logo.clearbit.com/www.dcjingsai.com",
-            "url": "https://www.dcjingsai.com/common/cmpt/%E5%9B%BD%E8%83%BD%E6%97%A5%E6%96%B0%E5%85%89%E4%BC%8F%E5%8A%9F%E7%8E%87%E9%A2%84%E6%B5%8B%E5%A4%A7%E8%B5%9B_%E6%88%91%E7%9A%84%E9%98%9F%E4%BC%8D.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1564585725000,
-            "title": "教你如何在机器学习竞赛中更胜一筹（上） - _夜枫 - 博客园",
-            "icon": "https://logo.clearbit.com/www.cnblogs.com",
-            "url": "https://www.cnblogs.com/iyulang/p/6723277.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1564585905000,
-            "title": "【JDD 空间站】信贷需求预测_算法组 - 京东",
-            "icon": "https://logo.clearbit.com/jdder.jd.com",
-            "url": "https://jdder.jd.com/index/jddDetail?matchId=a6ada7b2aab34289bae565214bf19ede"
-          },
-          {
-            "type": "link",
-            "addDate": 1564585919000,
-            "title": "JDATA 智汇平台",
-            "icon": "https://logo.clearbit.com/jdata.jd.com",
-            "url": "https://jdata.jd.com/index.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1565603529000,
-            "title": "腾讯广告算法大赛",
-            "icon": "https://logo.clearbit.com/algo.qq.com",
-            "url": "https://algo.qq.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1565603686000,
-            "title": "A Kaggler’s Guide to Model Stacking in Practice | No Free Hunch",
-            "icon": "https://logo.clearbit.com/blog.kaggle.com",
-            "url": "http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/"
-          },
-          {
-            "type": "link",
-            "addDate": 1567697889000,
-            "title": "共享单车租用需求影响因素分析 - 知乎",
-            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-            "url": "https://zhuanlan.zhihu.com/p/53072348"
-          },
-          {
-            "type": "link",
-            "addDate": 1567698024000,
-            "title": "Python3 基本语法梳理 - 知乎",
-            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-            "url": "https://zhuanlan.zhihu.com/p/46135547"
-          },
-          {
-            "type": "link",
-            "addDate": 1607072744000,
-            "title": "Adversarial validation, part one - FastML",
-            "icon": "https://logo.clearbit.com/fastml.com",
-            "url": "http://fastml.com/adversarial-validation-part-one/"
-          },
-          {
-            "type": "link",
-            "addDate": 1607072745000,
-            "title": "Adversarial validation, part two - FastML",
-            "icon": "https://logo.clearbit.com/fastml.com",
-            "url": "http://fastml.com/adversarial-validation-part-two/"
-          },
-          {
-            "type": "link",
-            "addDate": 1607072753000,
-            "title": "Adversarial validation | Kaggle",
-            "icon": "https://logo.clearbit.com/www.kaggle.com",
-            "url": "https://www.kaggle.com/kevinbonnes/adversarial-validation"
-          },
-          {
-            "type": "link",
-            "addDate": 1607072755000,
-            "title": "(4 条消息) 常用 CV 策略及对抗验证（Adversarial validation）_tomwang0322 的博客-CSDN 博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/weixin_41636030/article/details/103567857?utm_medium=distribute.pc_relevant.none-task-blog-title-2&spm=1001.2101.3001.4242"
-          },
-          {
-            "type": "link",
-            "addDate": 1607072757000,
-            "title": "(4 条消息) Adversarial validation_Greeksilverfir 的博客-CSDN 博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/weixin_43896398/article/details/84762922"
-          },
-          {
-            "type": "link",
-            "addDate": 1607072765000,
-            "title": "对抗验证--adversarial validation - 简书",
-            "icon": "https://logo.clearbit.com/www.jianshu.com",
-            "url": "https://www.jianshu.com/p/a91dfcd15940"
-          },
-          {
-            "type": "link",
-            "addDate": 1607072768000,
-            "title": "(4 条消息) 你还在用交叉验证吗？大神都开始用对抗验证（Adversarial validation）了_caoyuan666 的博客-CSDN 博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/caoyuan666/article/details/106223344"
+            "addDate": 1723430272224,
+            "title": "Chroma",
+            "icon": "https://logo.clearbit.com/www.trychroma.com",
+            "url": "https://www.trychroma.com/"
           }
         ]
       }
