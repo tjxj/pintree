@@ -548,7 +548,6 @@
             "icon": "https://logo.clearbit.com/www.meta.ai",
             "url": "https://www.meta.ai/?icebreaker=imagine"
           },
-
           {
             "type": "link",
             "addDate": 1704269241164,
@@ -702,6 +701,13 @@
             "title": "Midjourney",
             "icon": "https://logo.clearbit.com/www.midjourney.com",
             "url": "https://www.midjourney.com/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1724204296105,
+            "title": "稳定扩散 3 免费在线体验 - 由 SD3 API 支持",
+            "icon": "https://logo.clearbit.com/stablediffusion3.net",
+            "url": "https://stablediffusion3.net/zh-CN"
           },
           {
             "type": "link",
@@ -930,9 +936,16 @@
           {
             "type": "link",
             "addDate": 1710341437543,
-            "title": "一译",
+            "title": "一译 - 论文翻译",
             "icon": "https://logo.clearbit.com/yiyibooks.cn",
             "url": "https://yiyibooks.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723795922284,
+            "title": "Doc2X-PDF 文档解析",
+            "icon": "https://logo.clearbit.com/doc2x.noedgeai.com",
+            "url": "https://doc2x.noedgeai.com/"
           },
           {
             "type": "link",
@@ -975,13 +988,6 @@
             "title": "Media Downloader",
             "icon": "https://logo.clearbit.com/sinqi.tools",
             "url": "https://sinqi.tools/zh?utm_source=dokeyai&utm_medium=referral"
-          },
-          {
-            "type": "link",
-            "addDate": 1723795922284,
-            "title": "Doc2X",
-            "icon": "https://logo.clearbit.com/doc2x.noedgeai.com",
-            "url": "https://doc2x.noedgeai.com/"
           }
         ]
       },
@@ -1083,10 +1089,10 @@
           },
           {
             "type": "link",
-            "addDate": 1723430460293,
-            "title": "LLM: A CLI utility and Python library for interacting with Large Language Models",
-            "icon": "https://logo.clearbit.com/llm.datasette.io",
-            "url": "https://llm.datasette.io/en/stable/"
+            "addDate": 1723430272224,
+            "title": "Chroma",
+            "icon": "https://logo.clearbit.com/www.trychroma.com",
+            "url": "https://www.trychroma.com/"
           },
           {
             "type": "link",
@@ -1094,13 +1100,6 @@
             "title": "ggerganov/llama.cpp: LLM inference in C/C++",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/ggerganov/llama.cpp"
-          },
-          {
-            "type": "link",
-            "addDate": 1723430503554,
-            "title": "vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog",
-            "icon": "https://logo.clearbit.com/blog.vllm.ai",
-            "url": "https://blog.vllm.ai/2023/06/20/vllm.html"
           },
           {
             "type": "link",
@@ -1146,10 +1145,17 @@
           },
           {
             "type": "link",
-            "addDate": 1723430272224,
-            "title": "Chroma",
-            "icon": "https://logo.clearbit.com/www.trychroma.com",
-            "url": "https://www.trychroma.com/"
+            "addDate": 1723430503554,
+            "title": "vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog",
+            "icon": "https://logo.clearbit.com/blog.vllm.ai",
+            "url": "https://blog.vllm.ai/2023/06/20/vllm.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1723430460293,
+            "title": "LLM: A CLI utility and Python library for interacting with Large Language Models",
+            "icon": "https://logo.clearbit.com/llm.datasette.io",
+            "url": "https://llm.datasette.io/en/stable/"
           }
         ]
       }
