@@ -295,6 +295,41 @@
             "title": "PyMuPDF 1.24.9 documentation",
             "icon": "https://logo.clearbit.com/pymupdf.readthedocs.io",
             "url": "https://pymupdf.readthedocs.io/en/latest/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1724218200814,
+            "title": "入门课程",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1724218208684,
+                "title": "AI Python for Beginners - 吴恩达亲自授课，LLM 当「助教」，适合初学者的 Python 编程课程",
+                "icon": "https://logo.clearbit.com/www.deeplearning.ai",
+                "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1724308793982,
+            "title": "pandoc-线上万能格式转换",
+            "icon": "https://logo.clearbit.com/pandoc.org",
+            "url": "https://pandoc.org/try/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724332287514,
+            "title": "Comet.ml-元机器学习平台，用于跟踪、比较、解释和优化实验和模型。",
+            "icon": "https://logo.clearbit.com/www.comet.com",
+            "url": "https://www.comet.com/tjxj#projects"
+          },
+          {
+            "type": "link",
+            "addDate": 1724845871194,
+            "title": "MAIF/shapash: 🔅 开发可靠且透明的机器学习模型的用户友好型可解释性和可解读性",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/MAIF/shapash"
           }
         ]
       },
@@ -449,6 +484,27 @@
                 "url": "https://www.datacastle.cn/index.html"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1724376433073,
+            "title": "Book-数据科学导论 - 使用 R 的数据分析与预测算法",
+            "icon": "https://logo.clearbit.com/rafalab.dfci.harvard.edu",
+            "url": "https://rafalab.dfci.harvard.edu/dsbook/"
+          },
+          {
+            "type": "link",
+            "addDate": 1702189587926,
+            "title": "Hello 算法 - 动画图解、一键运行的数据结构与算法教程",
+            "icon": "https://logo.clearbit.com/www.hello-algo.com",
+            "url": "https://www.hello-algo.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1683792975168,
+            "title": "AutoDL-品质 GPU 租用平台 - 租 GPU 就上 AutoDL",
+            "icon": "https://logo.clearbit.com/www.autodl.com",
+            "url": "https://www.autodl.com/market/list?voucher=register"
           }
         ]
       },
@@ -491,6 +547,34 @@
             "title": "fast.ai – fast.ai—Making neural nets uncool again",
             "icon": "https://logo.clearbit.com/www.fast.ai",
             "url": "https://www.fast.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1711334761112,
+            "title": "datawhalechina/llm-cookbook: 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/datawhalechina/llm-cookbook"
+          },
+          {
+            "type": "link",
+            "addDate": 1661677007094,
+            "title": "mli/paper-reading: 深度学习经典、新论文逐段精读",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/mli/paper-reading"
+          },
+          {
+            "type": "link",
+            "addDate": 1725291998093,
+            "title": "深度学习百科及面试资源 — PaddleEdu documentation",
+            "icon": "https://logo.clearbit.com/paddlepedia.readthedocs.io",
+            "url": "https://paddlepedia.readthedocs.io/en/latest/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1726725109547,
+            "title": "《动手学深度学习》 — 动手学深度学习 2.0.0 documentation",
+            "icon": "https://logo.clearbit.com/zh.d2l.ai",
+            "url": "https://zh.d2l.ai/index.html"
           }
         ]
       },
@@ -603,6 +687,27 @@
             "title": "LobeChat：个人 LLM 效能工具，给自己一个更聪明的大脑",
             "icon": "https://logo.clearbit.com/chatgpt.zhanglearning.com",
             "url": "https://chatgpt.zhanglearning.com/chat"
+          },
+          {
+            "type": "link",
+            "addDate": 1724321330514,
+            "title": "腾讯混元",
+            "icon": "https://logo.clearbit.com/hunyuan.tencent.com",
+            "url": "https://hunyuan.tencent.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1698657745273,
+            "title": "百川大模型 - 汇聚世界知识 创作妙笔生花 - 百川智能",
+            "icon": "https://logo.clearbit.com/www.baichuan-ai.com",
+            "url": "https://www.baichuan-ai.com/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1727705311966,
+            "title": "SiliconCloud-基于优秀的开源基础模型，提供高性价比的 GenAI 服务",
+            "icon": "https://logo.clearbit.com/cloud.siliconflow.cn",
+            "url": "https://cloud.siliconflow.cn/playground/chat"
           }
         ]
       },
@@ -820,6 +925,13 @@
             "title": "Freepik AI image generator - Free text-to-image generator",
             "icon": "https://logo.clearbit.com/www.freepik.com",
             "url": "https://www.freepik.com/pikaso/ai-image-generator"
+          },
+          {
+            "type": "link",
+            "addDate": 1724306438914,
+            "title": "Ideogram-效果不亚于 Flux Dev 版本。每天可以免费生成 5 次（每次 4 张图片）",
+            "icon": "https://logo.clearbit.com/ideogram.ai",
+            "url": "https://ideogram.ai/t/explore"
           }
         ]
       },
@@ -988,6 +1100,34 @@
             "title": "Media Downloader",
             "icon": "https://logo.clearbit.com/sinqi.tools",
             "url": "https://sinqi.tools/zh?utm_source=dokeyai&utm_medium=referral"
+          },
+          {
+            "type": "link",
+            "addDate": 1716357088312,
+            "title": "歌者 PPT - AI 帮你写 PPT",
+            "icon": "https://logo.clearbit.com/gezhe.com",
+            "url": "https://gezhe.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1716866229837,
+            "title": "Chatmind：AI 原生的在线思维导图工具，来自 Xmind",
+            "icon": "https://logo.clearbit.com/chatmind.tech",
+            "url": "https://chatmind.tech/cn/editor"
+          },
+          {
+            "type": "link",
+            "addDate": 1683794224496,
+            "title": "即时 AI - 生成式设计工具",
+            "icon": "https://logo.clearbit.com/js.design",
+            "url": "https://js.design/ai"
+          },
+          {
+            "type": "link",
+            "addDate": 1678176128900,
+            "title": "ChatPDF - Chat with any PDF!",
+            "icon": "https://logo.clearbit.com/www.chatpdf.com",
+            "url": "https://www.chatpdf.com/"
           }
         ]
       },
@@ -1156,6 +1296,235 @@
             "title": "LLM: A CLI utility and Python library for interacting with Large Language Models",
             "icon": "https://logo.clearbit.com/llm.datasette.io",
             "url": "https://llm.datasette.io/en/stable/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1723182247166,
+        "title": "插件",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1723182258805,
+            "title": "浏览器插件",
+            "children": []
+          },
+          {
+            "type": "folder",
+            "addDate": 1723182273090,
+            "title": "VSCode 插件",
+            "children": []
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1724335741035,
+        "title": "好用工具",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724335713673,
+            "title": "OneSticker-全平台实时同步便签 App",
+            "icon": "https://logo.clearbit.com/onesticker.app",
+            "url": "https://onesticker.app/cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1724335830904,
+            "title": "Umi-OCR: 开源、免费的离线 OCR 软件。支持截屏/批量导入图片，PDF 文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/hiroi-sora/Umi-OCR"
+          },
+          {
+            "type": "link",
+            "addDate": 1724335863764,
+            "title": "EcoPaste: 一款开源的跨平台剪切板管理工具",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/ayangweb/EcoPaste"
+          },
+          {
+            "type": "link",
+            "addDate": 1724335890747,
+            "title": "ScreenToGif -GIF 录制编辑工具",
+            "icon": "https://logo.clearbit.com/www.screentogif.com",
+            "url": "https://www.screentogif.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724338868689,
+            "title": "free-font: 收录商用免费汉字字体，还包括开源英文字体 Free Font",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/jaywcjlove/free-font"
+          },
+          {
+            "type": "link",
+            "addDate": 1724395215333,
+            "title": "小宾 AI 抠图应用，使用开源模型 briaai/RMBG-1.4实现图像抠图,支持单张图像拖拽、粘贴图像和连接、和批量抠图",
+            "icon": "https://logo.clearbit.com/matting.20133075.xyz",
+            "url": "https://matting.20133075.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1686577674144,
+            "title": "微信公众号文章封面图提取_微信文章首图提取_微信图文缩略图提取_蘑菇在线工具",
+            "icon": "https://logo.clearbit.com/www.mgpaiban.com",
+            "url": "http://www.mgpaiban.com/tool/wxfm.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1687699580467,
+            "title": "在线 LaTeX 公式编辑器 - 编辑器",
+            "icon": "https://logo.clearbit.com/www.latexlive.com",
+            "url": "https://www.latexlive.com/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1687847810608,
+            "title": "Bigjpg - AI 人工智能图片无损放大 - 使用人工智能深度卷积神经网络 (CNN) 无损放大图片",
+            "icon": "https://logo.clearbit.com/bigjpg.com",
+            "url": "https://bigjpg.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1687851813339,
+            "title": "Upscalepics | Upscale and enhance images online",
+            "icon": "https://logo.clearbit.com/upscalepics.com",
+            "url": "https://upscalepics.com/upload"
+          },
+          {
+            "type": "link",
+            "addDate": 1687920078447,
+            "title": "图片 Base64 解码器 | 免费在线解码 Base64 图像",
+            "icon": "https://logo.clearbit.com/products.aspose.app",
+            "url": "https://products.aspose.app/svg/zh/image-base64-decoder"
+          },
+          {
+            "type": "link",
+            "addDate": 1687920153164,
+            "title": "在线转换器上免费将 PNG 文件转换为 SVG 文件格式",
+            "icon": "https://logo.clearbit.com/onlineconvertfree.com",
+            "url": "https://onlineconvertfree.com/zh/convert-format/png-to-svg/"
+          },
+          {
+            "type": "link",
+            "addDate": 1689518339058,
+            "title": "Doget - Github release 下载，文件下载加速",
+            "icon": "https://logo.clearbit.com/doget.nocsdn.com",
+            "url": "https://doget.nocsdn.com/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1690536754183,
+            "title": "BASE64 转图片 - 站长工具 - 极速数据",
+            "icon": "https://logo.clearbit.com/tool.jisuapi.com",
+            "url": "https://tool.jisuapi.com/base642pic.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1678450862792,
+            "title": "在线繁体字转换工具",
+            "icon": "https://logo.clearbit.com/www.aies.cn",
+            "url": "http://www.aies.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1709168554430,
+            "title": "帮小忙，腾讯 QQ 浏览器在线工具箱平台",
+            "icon": "https://logo.clearbit.com/tool.browser.qq.com",
+            "url": "https://tool.browser.qq.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1707579591217,
+            "title": "Input Source Pro - 自动切换输入法加上适时的提示，让每一次输入都游刃有余",
+            "icon": "https://logo.clearbit.com/inputsource.pro",
+            "url": "https://inputsource.pro/zh-CN"
+          },
+          {
+            "type": "link",
+            "addDate": 1707573548014,
+            "title": "美叶 - 优质设计内容推荐平台",
+            "icon": "https://logo.clearbit.com/www.meiye.art",
+            "url": "https://www.meiye.art/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724770131997,
+            "title": "Documentation | Framer for Developers",
+            "icon": "https://logo.clearbit.com/www.framer.com",
+            "url": "https://www.framer.com/motion/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724907959943,
+            "title": "かわいいフリー素材集 いらすとや",
+            "icon": "https://logo.clearbit.com/www.irasutoya.com",
+            "url": "https://www.irasutoya.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724986201531,
+            "title": "Emoji Spark ✨ | AI Emoji Finder: Search, Copy & Paste Emojis Easily",
+            "icon": "https://logo.clearbit.com/emojispark.com",
+            "url": "https://emojispark.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725000291764,
+            "title": "Deep Learning Developer Python Cursor Rules rule by Yu Changqian",
+            "icon": "https://logo.clearbit.com/cursor.directory",
+            "url": "https://cursor.directory/deep-learning-developer-python-cursor-rules"
+          },
+          {
+            "type": "link",
+            "addDate": 1725179857640,
+            "title": "Themes - shadcn/ui",
+            "icon": "https://logo.clearbit.com/ui.shadcn.com",
+            "url": "https://ui.shadcn.com/themes"
+          },
+          {
+            "type": "link",
+            "addDate": 1726413695874,
+            "title": "3D 模型 - MakerWorld",
+            "icon": "https://logo.clearbit.com/makerworld.com",
+            "url": "https://makerworld.com/zh/3d-models"
+          },
+          {
+            "type": "link",
+            "addDate": 1726630045948,
+            "title": "mastergo.com",
+            "icon": "https://logo.clearbit.com/mastergo.com",
+            "url": "https://mastergo.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727416361565,
+            "title": "JSON For You | The best online JSON tool",
+            "icon": "https://logo.clearbit.com/json4u.com",
+            "url": "https://json4u.com/#pricing"
+          },
+          {
+            "type": "link",
+            "addDate": 1727660104424,
+            "title": "猫啃网，免费商用字体，广州市海锋网络科技有限公司",
+            "icon": "https://logo.clearbit.com/www.maoken.com",
+            "url": "https://www.maoken.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727705135026,
+            "title": "简单设计 EasyDesign-免费在线设计工具图片处理工具",
+            "icon": "https://logo.clearbit.com/jiandan.link",
+            "url": "https://jiandan.link/app/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1727660708119,
+            "title": "Vectorcraftr：免费可商用插画库",
+            "icon": "https://logo.clearbit.com/vectorcraftr.com",
+            "url": "https://vectorcraftr.com/"
           }
         ]
       }
