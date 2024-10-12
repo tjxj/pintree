@@ -52,6 +52,7 @@
 
   <!-- Stylesheet -->
   <link rel="stylesheet" href="css/tailwind.css">
+  <link rel="stylesheet" href="css/styles.css">
 
   <!-- Structured Data for SEO -->
   <script type="application/ld+json">
@@ -105,8 +106,6 @@
       </div>
     </div>
 
-    <div id="tooltip" class="hidden absolute z-10 px-2 py-1 text-sm bg-gray-800 text-black rounded"></div>
-    <!-- Static Sidebar for Desktop -->
     <div class="hidden lg:fixed lg:inset-y-0 lg:z-50 lg:flex lg:w-60 lg:flex-col">
       <div
         class="flex flex-col border-r border-gray-200 dark:pintree-border-gray-800 bg-white px-4 h-full font-semibold dark:pintree-bg-gray-900">
@@ -182,6 +181,7 @@
           </div>
         </div>
         <div id="bookmarks" class="grid gap-6 p-6">
+
           <!-- Bookmark cards will be inserted here -->
         </div>
       </main>
@@ -328,7 +328,6 @@
 
     // Create bookmark card element
 // Create bookmark card element
-    // Create bookmark card element
     function createCard(title, url, icon) {
       const card = document.createElement('div');
       card.className = 'cursor-pointer flex items-center hover:shadow-sm transition-shadow p-4 bg-white shadow-sm ring-1 ring-gray-900/5 dark:pintree-ring-gray-800 rounded-lg hover:bg-gray-100 dark:pintree-bg-gray-900 dark:hover:pintree-bg-gray-800';
